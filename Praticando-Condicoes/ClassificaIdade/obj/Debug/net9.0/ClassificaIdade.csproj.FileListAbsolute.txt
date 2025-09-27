@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\ClassificaIdade\bin\Debug\net9.0\ClassificaIdade.exe
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\ClassificaIdade\bin\Debug\net9.0\ClassificaIdade.deps.json
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\ClassificaIdade\bin\Debug\net9.0\ClassificaIdade.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\ClassificaIdade\bin\Debug\net9.0\ClassificaIdade.dll
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\ClassificaIdade\bin\Debug\net9.0\ClassificaIdade.pdb
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\ClassificaIdade\obj\Debug\net9.0\ClassificaIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\ClassificaIdade\obj\Debug\net9.0\ClassificaIdade.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\ClassificaIdade\obj\Debug\net9.0\ClassificaIdade.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\ClassificaIdade\obj\Debug\net9.0\ClassificaIdade.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\ClassificaIdade\obj\Debug\net9.0\ClassificaIdade.dll
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\ClassificaIdade\obj\Debug\net9.0\refint\ClassificaIdade.dll
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\ClassificaIdade\obj\Debug\net9.0\ClassificaIdade.pdb
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\ClassificaIdade\obj\Debug\net9.0\ClassificaIdade.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\ClassificaIdade\obj\Debug\net9.0\ref\ClassificaIdade.dll

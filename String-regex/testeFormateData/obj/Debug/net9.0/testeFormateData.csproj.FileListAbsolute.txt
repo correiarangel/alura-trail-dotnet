@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\String-regex\testeFormateData\bin\Debug\net9.0\testeFormateData.exe
+C:\Users\allreles\git-dev\alura\String-regex\testeFormateData\bin\Debug\net9.0\testeFormateData.deps.json
+C:\Users\allreles\git-dev\alura\String-regex\testeFormateData\bin\Debug\net9.0\testeFormateData.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\String-regex\testeFormateData\bin\Debug\net9.0\testeFormateData.dll
+C:\Users\allreles\git-dev\alura\String-regex\testeFormateData\bin\Debug\net9.0\testeFormateData.pdb
+C:\Users\allreles\git-dev\alura\String-regex\testeFormateData\obj\Debug\net9.0\testeFormateData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\String-regex\testeFormateData\obj\Debug\net9.0\testeFormateData.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\String-regex\testeFormateData\obj\Debug\net9.0\testeFormateData.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\String-regex\testeFormateData\obj\Debug\net9.0\testeFormateData.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\String-regex\testeFormateData\obj\Debug\net9.0\testeFormateData.dll
+C:\Users\allreles\git-dev\alura\String-regex\testeFormateData\obj\Debug\net9.0\refint\testeFormateData.dll
+C:\Users\allreles\git-dev\alura\String-regex\testeFormateData\obj\Debug\net9.0\testeFormateData.pdb
+C:\Users\allreles\git-dev\alura\String-regex\testeFormateData\obj\Debug\net9.0\testeFormateData.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\String-regex\testeFormateData\obj\Debug\net9.0\ref\testeFormateData.dll

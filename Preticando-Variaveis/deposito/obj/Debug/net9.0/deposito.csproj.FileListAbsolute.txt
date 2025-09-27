@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\deposito\bin\Debug\net9.0\deposito.exe
+C:\Users\allreles\git-dev\alura\deposito\bin\Debug\net9.0\deposito.deps.json
+C:\Users\allreles\git-dev\alura\deposito\bin\Debug\net9.0\deposito.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\deposito\bin\Debug\net9.0\deposito.dll
+C:\Users\allreles\git-dev\alura\deposito\bin\Debug\net9.0\deposito.pdb
+C:\Users\allreles\git-dev\alura\deposito\obj\Debug\net9.0\deposito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\deposito\obj\Debug\net9.0\deposito.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\deposito\obj\Debug\net9.0\deposito.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\deposito\obj\Debug\net9.0\deposito.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\deposito\obj\Debug\net9.0\deposito.dll
+C:\Users\allreles\git-dev\alura\deposito\obj\Debug\net9.0\refint\deposito.dll
+C:\Users\allreles\git-dev\alura\deposito\obj\Debug\net9.0\deposito.pdb
+C:\Users\allreles\git-dev\alura\deposito\obj\Debug\net9.0\deposito.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\deposito\obj\Debug\net9.0\ref\deposito.dll

@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ConverteTemperatura\bin\Debug\net9.0\ConverteTemperatura.exe
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ConverteTemperatura\bin\Debug\net9.0\ConverteTemperatura.deps.json
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ConverteTemperatura\bin\Debug\net9.0\ConverteTemperatura.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ConverteTemperatura\bin\Debug\net9.0\ConverteTemperatura.dll
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ConverteTemperatura\bin\Debug\net9.0\ConverteTemperatura.pdb
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ConverteTemperatura\obj\Debug\net9.0\ConverteTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ConverteTemperatura\obj\Debug\net9.0\ConverteTemperatura.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ConverteTemperatura\obj\Debug\net9.0\ConverteTemperatura.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ConverteTemperatura\obj\Debug\net9.0\ConverteTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ConverteTemperatura\obj\Debug\net9.0\ConverteTemperatura.dll
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ConverteTemperatura\obj\Debug\net9.0\refint\ConverteTemperatura.dll
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ConverteTemperatura\obj\Debug\net9.0\ConverteTemperatura.pdb
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ConverteTemperatura\obj\Debug\net9.0\ConverteTemperatura.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ConverteTemperatura\obj\Debug\net9.0\ref\ConverteTemperatura.dll

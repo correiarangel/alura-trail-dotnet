@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SenhaNivelAcesso\bin\Debug\net9.0\SenhaNivelAcesso.exe
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SenhaNivelAcesso\bin\Debug\net9.0\SenhaNivelAcesso.deps.json
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SenhaNivelAcesso\bin\Debug\net9.0\SenhaNivelAcesso.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SenhaNivelAcesso\bin\Debug\net9.0\SenhaNivelAcesso.dll
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SenhaNivelAcesso\bin\Debug\net9.0\SenhaNivelAcesso.pdb
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SenhaNivelAcesso\obj\Debug\net9.0\SenhaNivelAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SenhaNivelAcesso\obj\Debug\net9.0\SenhaNivelAcesso.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SenhaNivelAcesso\obj\Debug\net9.0\SenhaNivelAcesso.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SenhaNivelAcesso\obj\Debug\net9.0\SenhaNivelAcesso.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SenhaNivelAcesso\obj\Debug\net9.0\SenhaNivelAcesso.dll
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SenhaNivelAcesso\obj\Debug\net9.0\refint\SenhaNivelAcesso.dll
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SenhaNivelAcesso\obj\Debug\net9.0\SenhaNivelAcesso.pdb
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SenhaNivelAcesso\obj\Debug\net9.0\SenhaNivelAcesso.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SenhaNivelAcesso\obj\Debug\net9.0\ref\SenhaNivelAcesso.dll

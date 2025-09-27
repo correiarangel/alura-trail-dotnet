@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\testaSePerecivel\bin\Debug\net9.0\testaSePerecivel.exe
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\testaSePerecivel\bin\Debug\net9.0\testaSePerecivel.deps.json
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\testaSePerecivel\bin\Debug\net9.0\testaSePerecivel.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\testaSePerecivel\bin\Debug\net9.0\testaSePerecivel.dll
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\testaSePerecivel\bin\Debug\net9.0\testaSePerecivel.pdb
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\testaSePerecivel\obj\Debug\net9.0\testaSePerecivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\testaSePerecivel\obj\Debug\net9.0\testaSePerecivel.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\testaSePerecivel\obj\Debug\net9.0\testaSePerecivel.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\testaSePerecivel\obj\Debug\net9.0\testaSePerecivel.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\testaSePerecivel\obj\Debug\net9.0\testaSePerecivel.dll
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\testaSePerecivel\obj\Debug\net9.0\refint\testaSePerecivel.dll
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\testaSePerecivel\obj\Debug\net9.0\testaSePerecivel.pdb
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\testaSePerecivel\obj\Debug\net9.0\testaSePerecivel.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\testaSePerecivel\obj\Debug\net9.0\ref\testaSePerecivel.dll

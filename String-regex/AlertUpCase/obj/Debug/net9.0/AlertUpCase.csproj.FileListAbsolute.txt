@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\String\AlertUpCase\bin\Debug\net9.0\AlertUpCase.exe
+C:\Users\allreles\git-dev\alura\String\AlertUpCase\bin\Debug\net9.0\AlertUpCase.deps.json
+C:\Users\allreles\git-dev\alura\String\AlertUpCase\bin\Debug\net9.0\AlertUpCase.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\String\AlertUpCase\bin\Debug\net9.0\AlertUpCase.dll
+C:\Users\allreles\git-dev\alura\String\AlertUpCase\bin\Debug\net9.0\AlertUpCase.pdb
+C:\Users\allreles\git-dev\alura\String\AlertUpCase\obj\Debug\net9.0\AlertUpCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\String\AlertUpCase\obj\Debug\net9.0\AlertUpCase.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\String\AlertUpCase\obj\Debug\net9.0\AlertUpCase.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\String\AlertUpCase\obj\Debug\net9.0\AlertUpCase.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\String\AlertUpCase\obj\Debug\net9.0\AlertUpCase.dll
+C:\Users\allreles\git-dev\alura\String\AlertUpCase\obj\Debug\net9.0\refint\AlertUpCase.dll
+C:\Users\allreles\git-dev\alura\String\AlertUpCase\obj\Debug\net9.0\AlertUpCase.pdb
+C:\Users\allreles\git-dev\alura\String\AlertUpCase\obj\Debug\net9.0\AlertUpCase.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\String\AlertUpCase\obj\Debug\net9.0\ref\AlertUpCase.dll

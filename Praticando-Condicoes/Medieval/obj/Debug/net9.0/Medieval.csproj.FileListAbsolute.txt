@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Medieval\bin\Debug\net9.0\Medieval.exe
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Medieval\bin\Debug\net9.0\Medieval.deps.json
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Medieval\bin\Debug\net9.0\Medieval.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Medieval\bin\Debug\net9.0\Medieval.dll
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Medieval\bin\Debug\net9.0\Medieval.pdb
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Medieval\obj\Debug\net9.0\Medieval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Medieval\obj\Debug\net9.0\Medieval.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Medieval\obj\Debug\net9.0\Medieval.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Medieval\obj\Debug\net9.0\Medieval.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Medieval\obj\Debug\net9.0\Medieval.dll
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Medieval\obj\Debug\net9.0\refint\Medieval.dll
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Medieval\obj\Debug\net9.0\Medieval.pdb
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Medieval\obj\Debug\net9.0\Medieval.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Medieval\obj\Debug\net9.0\ref\Medieval.dll

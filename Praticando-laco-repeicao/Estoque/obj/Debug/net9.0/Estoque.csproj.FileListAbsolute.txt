@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\Estoque\bin\Debug\net9.0\Estoque.exe
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\Estoque\bin\Debug\net9.0\Estoque.deps.json
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\Estoque\bin\Debug\net9.0\Estoque.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\Estoque\bin\Debug\net9.0\Estoque.dll
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\Estoque\bin\Debug\net9.0\Estoque.pdb
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\Estoque\obj\Debug\net9.0\Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\Estoque\obj\Debug\net9.0\Estoque.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\Estoque\obj\Debug\net9.0\Estoque.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\Estoque\obj\Debug\net9.0\Estoque.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\Estoque\obj\Debug\net9.0\Estoque.dll
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\Estoque\obj\Debug\net9.0\refint\Estoque.dll
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\Estoque\obj\Debug\net9.0\Estoque.pdb
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\Estoque\obj\Debug\net9.0\Estoque.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\Estoque\obj\Debug\net9.0\ref\Estoque.dll

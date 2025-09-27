@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\media-nota\bin\Debug\net9.0\media-nota.exe
+C:\Users\allreles\git-dev\alura\media-nota\bin\Debug\net9.0\media-nota.deps.json
+C:\Users\allreles\git-dev\alura\media-nota\bin\Debug\net9.0\media-nota.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\media-nota\bin\Debug\net9.0\media-nota.dll
+C:\Users\allreles\git-dev\alura\media-nota\bin\Debug\net9.0\media-nota.pdb
+C:\Users\allreles\git-dev\alura\media-nota\obj\Debug\net9.0\media-nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\media-nota\obj\Debug\net9.0\media-nota.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\media-nota\obj\Debug\net9.0\media-nota.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\media-nota\obj\Debug\net9.0\media-nota.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\media-nota\obj\Debug\net9.0\media-nota.dll
+C:\Users\allreles\git-dev\alura\media-nota\obj\Debug\net9.0\refint\media-nota.dll
+C:\Users\allreles\git-dev\alura\media-nota\obj\Debug\net9.0\media-nota.pdb
+C:\Users\allreles\git-dev\alura\media-nota\obj\Debug\net9.0\media-nota.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\media-nota\obj\Debug\net9.0\ref\media-nota.dll

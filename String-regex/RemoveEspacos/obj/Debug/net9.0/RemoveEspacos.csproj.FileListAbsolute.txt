@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\String-regex\RemoveEspacos\bin\Debug\net9.0\RemoveEspacos.exe
+C:\Users\allreles\git-dev\alura\String-regex\RemoveEspacos\bin\Debug\net9.0\RemoveEspacos.deps.json
+C:\Users\allreles\git-dev\alura\String-regex\RemoveEspacos\bin\Debug\net9.0\RemoveEspacos.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\String-regex\RemoveEspacos\bin\Debug\net9.0\RemoveEspacos.dll
+C:\Users\allreles\git-dev\alura\String-regex\RemoveEspacos\bin\Debug\net9.0\RemoveEspacos.pdb
+C:\Users\allreles\git-dev\alura\String-regex\RemoveEspacos\obj\Debug\net9.0\RemoveEspacos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\String-regex\RemoveEspacos\obj\Debug\net9.0\RemoveEspacos.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\String-regex\RemoveEspacos\obj\Debug\net9.0\RemoveEspacos.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\String-regex\RemoveEspacos\obj\Debug\net9.0\RemoveEspacos.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\String-regex\RemoveEspacos\obj\Debug\net9.0\RemoveEspacos.dll
+C:\Users\allreles\git-dev\alura\String-regex\RemoveEspacos\obj\Debug\net9.0\refint\RemoveEspacos.dll
+C:\Users\allreles\git-dev\alura\String-regex\RemoveEspacos\obj\Debug\net9.0\RemoveEspacos.pdb
+C:\Users\allreles\git-dev\alura\String-regex\RemoveEspacos\obj\Debug\net9.0\RemoveEspacos.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\String-regex\RemoveEspacos\obj\Debug\net9.0\ref\RemoveEspacos.dll

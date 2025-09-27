@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\calcutar-area\bin\Debug\net9.0\calcutar-area.exe
+C:\Users\allreles\git-dev\alura\calcutar-area\bin\Debug\net9.0\calcutar-area.deps.json
+C:\Users\allreles\git-dev\alura\calcutar-area\bin\Debug\net9.0\calcutar-area.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\calcutar-area\bin\Debug\net9.0\calcutar-area.dll
+C:\Users\allreles\git-dev\alura\calcutar-area\bin\Debug\net9.0\calcutar-area.pdb
+C:\Users\allreles\git-dev\alura\calcutar-area\obj\Debug\net9.0\calcutar-area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\calcutar-area\obj\Debug\net9.0\calcutar-area.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\calcutar-area\obj\Debug\net9.0\calcutar-area.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\calcutar-area\obj\Debug\net9.0\calcutar-area.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\calcutar-area\obj\Debug\net9.0\calcutar-area.dll
+C:\Users\allreles\git-dev\alura\calcutar-area\obj\Debug\net9.0\refint\calcutar-area.dll
+C:\Users\allreles\git-dev\alura\calcutar-area\obj\Debug\net9.0\calcutar-area.pdb
+C:\Users\allreles\git-dev\alura\calcutar-area\obj\Debug\net9.0\calcutar-area.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\calcutar-area\obj\Debug\net9.0\ref\calcutar-area.dll

@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\LisaAlunos\obj\Debug\net9.0\LisaAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\LisaAlunos\obj\Debug\net9.0\LisaAlunos.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\LisaAlunos\obj\Debug\net9.0\LisaAlunos.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\LisaAlunos\obj\Debug\net9.0\LisaAlunos.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\LisaAlunos\bin\Debug\net9.0\LisaAlunos.exe
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\LisaAlunos\bin\Debug\net9.0\LisaAlunos.deps.json
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\LisaAlunos\bin\Debug\net9.0\LisaAlunos.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\LisaAlunos\bin\Debug\net9.0\LisaAlunos.dll
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\LisaAlunos\bin\Debug\net9.0\LisaAlunos.pdb
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\LisaAlunos\obj\Debug\net9.0\LisaAlunos.dll
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\LisaAlunos\obj\Debug\net9.0\refint\LisaAlunos.dll
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\LisaAlunos\obj\Debug\net9.0\LisaAlunos.pdb
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\LisaAlunos\obj\Debug\net9.0\LisaAlunos.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\LisaAlunos\obj\Debug\net9.0\ref\LisaAlunos.dll

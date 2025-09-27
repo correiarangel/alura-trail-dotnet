@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\MultiplodeTres\bin\Debug\net9.0\MultiplodeTres.exe
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\MultiplodeTres\bin\Debug\net9.0\MultiplodeTres.deps.json
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\MultiplodeTres\bin\Debug\net9.0\MultiplodeTres.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\MultiplodeTres\bin\Debug\net9.0\MultiplodeTres.dll
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\MultiplodeTres\bin\Debug\net9.0\MultiplodeTres.pdb
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\MultiplodeTres\obj\Debug\net9.0\MultiplodeTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\MultiplodeTres\obj\Debug\net9.0\MultiplodeTres.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\MultiplodeTres\obj\Debug\net9.0\MultiplodeTres.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\MultiplodeTres\obj\Debug\net9.0\MultiplodeTres.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\MultiplodeTres\obj\Debug\net9.0\MultiplodeTres.dll
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\MultiplodeTres\obj\Debug\net9.0\refint\MultiplodeTres.dll
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\MultiplodeTres\obj\Debug\net9.0\MultiplodeTres.pdb
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\MultiplodeTres\obj\Debug\net9.0\MultiplodeTres.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\MultiplodeTres\obj\Debug\net9.0\ref\MultiplodeTres.dll

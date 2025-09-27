@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\GeraSenha\bin\Debug\net9.0\GeraSenha.exe
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\GeraSenha\bin\Debug\net9.0\GeraSenha.deps.json
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\GeraSenha\bin\Debug\net9.0\GeraSenha.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\GeraSenha\bin\Debug\net9.0\GeraSenha.dll
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\GeraSenha\bin\Debug\net9.0\GeraSenha.pdb
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\GeraSenha\obj\Debug\net9.0\GeraSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\GeraSenha\obj\Debug\net9.0\GeraSenha.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\GeraSenha\obj\Debug\net9.0\GeraSenha.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\GeraSenha\obj\Debug\net9.0\GeraSenha.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\GeraSenha\obj\Debug\net9.0\GeraSenha.dll
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\GeraSenha\obj\Debug\net9.0\refint\GeraSenha.dll
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\GeraSenha\obj\Debug\net9.0\GeraSenha.pdb
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\GeraSenha\obj\Debug\net9.0\GeraSenha.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\GeraSenha\obj\Debug\net9.0\ref\GeraSenha.dll

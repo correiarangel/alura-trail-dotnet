@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\quantas-hora-tem-nos-minutos\bin\Debug\net9.0\quantas-hora-tem-nos-minutos.exe
+C:\Users\allreles\git-dev\alura\quantas-hora-tem-nos-minutos\bin\Debug\net9.0\quantas-hora-tem-nos-minutos.deps.json
+C:\Users\allreles\git-dev\alura\quantas-hora-tem-nos-minutos\bin\Debug\net9.0\quantas-hora-tem-nos-minutos.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\quantas-hora-tem-nos-minutos\bin\Debug\net9.0\quantas-hora-tem-nos-minutos.dll
+C:\Users\allreles\git-dev\alura\quantas-hora-tem-nos-minutos\bin\Debug\net9.0\quantas-hora-tem-nos-minutos.pdb
+C:\Users\allreles\git-dev\alura\quantas-hora-tem-nos-minutos\obj\Debug\net9.0\quantas-hora-tem-nos-minutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\quantas-hora-tem-nos-minutos\obj\Debug\net9.0\quantas-hora-tem-nos-minutos.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\quantas-hora-tem-nos-minutos\obj\Debug\net9.0\quantas-hora-tem-nos-minutos.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\quantas-hora-tem-nos-minutos\obj\Debug\net9.0\quantas-hora-tem-nos-minutos.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\quantas-hora-tem-nos-minutos\obj\Debug\net9.0\quantas-hora-tem-nos-minutos.dll
+C:\Users\allreles\git-dev\alura\quantas-hora-tem-nos-minutos\obj\Debug\net9.0\refint\quantas-hora-tem-nos-minutos.dll
+C:\Users\allreles\git-dev\alura\quantas-hora-tem-nos-minutos\obj\Debug\net9.0\quantas-hora-tem-nos-minutos.pdb
+C:\Users\allreles\git-dev\alura\quantas-hora-tem-nos-minutos\obj\Debug\net9.0\quantas-hora-tem-nos-minutos.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\quantas-hora-tem-nos-minutos\obj\Debug\net9.0\ref\quantas-hora-tem-nos-minutos.dll

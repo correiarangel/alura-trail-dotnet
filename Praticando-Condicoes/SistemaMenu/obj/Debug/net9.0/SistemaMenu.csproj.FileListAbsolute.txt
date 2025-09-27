@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SistemaMenu\bin\Debug\net9.0\SistemaMenu.exe
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SistemaMenu\bin\Debug\net9.0\SistemaMenu.deps.json
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SistemaMenu\bin\Debug\net9.0\SistemaMenu.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SistemaMenu\bin\Debug\net9.0\SistemaMenu.dll
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SistemaMenu\bin\Debug\net9.0\SistemaMenu.pdb
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SistemaMenu\obj\Debug\net9.0\SistemaMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SistemaMenu\obj\Debug\net9.0\SistemaMenu.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SistemaMenu\obj\Debug\net9.0\SistemaMenu.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SistemaMenu\obj\Debug\net9.0\SistemaMenu.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SistemaMenu\obj\Debug\net9.0\SistemaMenu.dll
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SistemaMenu\obj\Debug\net9.0\refint\SistemaMenu.dll
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SistemaMenu\obj\Debug\net9.0\SistemaMenu.pdb
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SistemaMenu\obj\Debug\net9.0\SistemaMenu.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\SistemaMenu\obj\Debug\net9.0\ref\SistemaMenu.dll

@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\Colecoes\SomandoArray\bin\Debug\net9.0\SomandoArray.exe
+C:\Users\allreles\git-dev\alura\Colecoes\SomandoArray\bin\Debug\net9.0\SomandoArray.deps.json
+C:\Users\allreles\git-dev\alura\Colecoes\SomandoArray\bin\Debug\net9.0\SomandoArray.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\Colecoes\SomandoArray\bin\Debug\net9.0\SomandoArray.dll
+C:\Users\allreles\git-dev\alura\Colecoes\SomandoArray\bin\Debug\net9.0\SomandoArray.pdb
+C:\Users\allreles\git-dev\alura\Colecoes\SomandoArray\obj\Debug\net9.0\SomandoArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\Colecoes\SomandoArray\obj\Debug\net9.0\SomandoArray.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\Colecoes\SomandoArray\obj\Debug\net9.0\SomandoArray.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\Colecoes\SomandoArray\obj\Debug\net9.0\SomandoArray.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\Colecoes\SomandoArray\obj\Debug\net9.0\SomandoArray.dll
+C:\Users\allreles\git-dev\alura\Colecoes\SomandoArray\obj\Debug\net9.0\refint\SomandoArray.dll
+C:\Users\allreles\git-dev\alura\Colecoes\SomandoArray\obj\Debug\net9.0\SomandoArray.pdb
+C:\Users\allreles\git-dev\alura\Colecoes\SomandoArray\obj\Debug\net9.0\SomandoArray.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\Colecoes\SomandoArray\obj\Debug\net9.0\ref\SomandoArray.dll

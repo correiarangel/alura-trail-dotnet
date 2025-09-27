@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\SomaVedas\bin\Debug\net9.0\SomaVedas.exe
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\SomaVedas\bin\Debug\net9.0\SomaVedas.deps.json
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\SomaVedas\bin\Debug\net9.0\SomaVedas.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\SomaVedas\bin\Debug\net9.0\SomaVedas.dll
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\SomaVedas\bin\Debug\net9.0\SomaVedas.pdb
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\SomaVedas\obj\Debug\net9.0\SomaVedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\SomaVedas\obj\Debug\net9.0\SomaVedas.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\SomaVedas\obj\Debug\net9.0\SomaVedas.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\SomaVedas\obj\Debug\net9.0\SomaVedas.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\SomaVedas\obj\Debug\net9.0\SomaVedas.dll
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\SomaVedas\obj\Debug\net9.0\refint\SomaVedas.dll
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\SomaVedas\obj\Debug\net9.0\SomaVedas.pdb
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\SomaVedas\obj\Debug\net9.0\SomaVedas.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\SomaVedas\obj\Debug\net9.0\ref\SomaVedas.dll

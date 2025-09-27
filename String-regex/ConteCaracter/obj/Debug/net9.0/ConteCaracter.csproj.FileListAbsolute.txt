@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\String\ConteCaracter\bin\Debug\net9.0\ConteCaracter.exe
+C:\Users\allreles\git-dev\alura\String\ConteCaracter\bin\Debug\net9.0\ConteCaracter.deps.json
+C:\Users\allreles\git-dev\alura\String\ConteCaracter\bin\Debug\net9.0\ConteCaracter.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\String\ConteCaracter\bin\Debug\net9.0\ConteCaracter.dll
+C:\Users\allreles\git-dev\alura\String\ConteCaracter\bin\Debug\net9.0\ConteCaracter.pdb
+C:\Users\allreles\git-dev\alura\String\ConteCaracter\obj\Debug\net9.0\ConteCaracter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\String\ConteCaracter\obj\Debug\net9.0\ConteCaracter.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\String\ConteCaracter\obj\Debug\net9.0\ConteCaracter.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\String\ConteCaracter\obj\Debug\net9.0\ConteCaracter.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\String\ConteCaracter\obj\Debug\net9.0\ConteCaracter.dll
+C:\Users\allreles\git-dev\alura\String\ConteCaracter\obj\Debug\net9.0\refint\ConteCaracter.dll
+C:\Users\allreles\git-dev\alura\String\ConteCaracter\obj\Debug\net9.0\ConteCaracter.pdb
+C:\Users\allreles\git-dev\alura\String\ConteCaracter\obj\Debug\net9.0\ConteCaracter.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\String\ConteCaracter\obj\Debug\net9.0\ref\ConteCaracter.dll

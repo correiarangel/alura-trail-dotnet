@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\Colecoes\NotasAlunos\bin\Debug\net9.0\NotasAlunos.exe
+C:\Users\allreles\git-dev\alura\Colecoes\NotasAlunos\bin\Debug\net9.0\NotasAlunos.deps.json
+C:\Users\allreles\git-dev\alura\Colecoes\NotasAlunos\bin\Debug\net9.0\NotasAlunos.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\Colecoes\NotasAlunos\bin\Debug\net9.0\NotasAlunos.dll
+C:\Users\allreles\git-dev\alura\Colecoes\NotasAlunos\bin\Debug\net9.0\NotasAlunos.pdb
+C:\Users\allreles\git-dev\alura\Colecoes\NotasAlunos\obj\Debug\net9.0\NotasAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\Colecoes\NotasAlunos\obj\Debug\net9.0\NotasAlunos.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\Colecoes\NotasAlunos\obj\Debug\net9.0\NotasAlunos.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\Colecoes\NotasAlunos\obj\Debug\net9.0\NotasAlunos.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\Colecoes\NotasAlunos\obj\Debug\net9.0\NotasAlunos.dll
+C:\Users\allreles\git-dev\alura\Colecoes\NotasAlunos\obj\Debug\net9.0\refint\NotasAlunos.dll
+C:\Users\allreles\git-dev\alura\Colecoes\NotasAlunos\obj\Debug\net9.0\NotasAlunos.pdb
+C:\Users\allreles\git-dev\alura\Colecoes\NotasAlunos\obj\Debug\net9.0\NotasAlunos.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\Colecoes\NotasAlunos\obj\Debug\net9.0\ref\NotasAlunos.dll

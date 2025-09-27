@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\String\OrganizaString\bin\Debug\net9.0\OrganizaString.exe
+C:\Users\allreles\git-dev\alura\String\OrganizaString\bin\Debug\net9.0\OrganizaString.deps.json
+C:\Users\allreles\git-dev\alura\String\OrganizaString\bin\Debug\net9.0\OrganizaString.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\String\OrganizaString\bin\Debug\net9.0\OrganizaString.dll
+C:\Users\allreles\git-dev\alura\String\OrganizaString\bin\Debug\net9.0\OrganizaString.pdb
+C:\Users\allreles\git-dev\alura\String\OrganizaString\obj\Debug\net9.0\OrganizaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\String\OrganizaString\obj\Debug\net9.0\OrganizaString.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\String\OrganizaString\obj\Debug\net9.0\OrganizaString.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\String\OrganizaString\obj\Debug\net9.0\OrganizaString.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\String\OrganizaString\obj\Debug\net9.0\OrganizaString.dll
+C:\Users\allreles\git-dev\alura\String\OrganizaString\obj\Debug\net9.0\refint\OrganizaString.dll
+C:\Users\allreles\git-dev\alura\String\OrganizaString\obj\Debug\net9.0\OrganizaString.pdb
+C:\Users\allreles\git-dev\alura\String\OrganizaString\obj\Debug\net9.0\OrganizaString.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\String\OrganizaString\obj\Debug\net9.0\ref\OrganizaString.dll

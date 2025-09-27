@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\convertDecimalForInt\bin\Debug\net9.0\convertDecimalForInt.exe
+C:\Users\allreles\git-dev\alura\convertDecimalForInt\bin\Debug\net9.0\convertDecimalForInt.deps.json
+C:\Users\allreles\git-dev\alura\convertDecimalForInt\bin\Debug\net9.0\convertDecimalForInt.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\convertDecimalForInt\bin\Debug\net9.0\convertDecimalForInt.dll
+C:\Users\allreles\git-dev\alura\convertDecimalForInt\bin\Debug\net9.0\convertDecimalForInt.pdb
+C:\Users\allreles\git-dev\alura\convertDecimalForInt\obj\Debug\net9.0\convertDecimalForInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\convertDecimalForInt\obj\Debug\net9.0\convertDecimalForInt.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\convertDecimalForInt\obj\Debug\net9.0\convertDecimalForInt.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\convertDecimalForInt\obj\Debug\net9.0\convertDecimalForInt.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\convertDecimalForInt\obj\Debug\net9.0\convertDecimalForInt.dll
+C:\Users\allreles\git-dev\alura\convertDecimalForInt\obj\Debug\net9.0\refint\convertDecimalForInt.dll
+C:\Users\allreles\git-dev\alura\convertDecimalForInt\obj\Debug\net9.0\convertDecimalForInt.pdb
+C:\Users\allreles\git-dev\alura\convertDecimalForInt\obj\Debug\net9.0\convertDecimalForInt.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\convertDecimalForInt\obj\Debug\net9.0\ref\convertDecimalForInt.dll

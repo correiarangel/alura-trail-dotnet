@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\String\SubstituiPalavra\bin\Debug\net9.0\SubstituiPalavra.exe
+C:\Users\allreles\git-dev\alura\String\SubstituiPalavra\bin\Debug\net9.0\SubstituiPalavra.deps.json
+C:\Users\allreles\git-dev\alura\String\SubstituiPalavra\bin\Debug\net9.0\SubstituiPalavra.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\String\SubstituiPalavra\bin\Debug\net9.0\SubstituiPalavra.dll
+C:\Users\allreles\git-dev\alura\String\SubstituiPalavra\bin\Debug\net9.0\SubstituiPalavra.pdb
+C:\Users\allreles\git-dev\alura\String\SubstituiPalavra\obj\Debug\net9.0\SubstituiPalavra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\String\SubstituiPalavra\obj\Debug\net9.0\SubstituiPalavra.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\String\SubstituiPalavra\obj\Debug\net9.0\SubstituiPalavra.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\String\SubstituiPalavra\obj\Debug\net9.0\SubstituiPalavra.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\String\SubstituiPalavra\obj\Debug\net9.0\SubstituiPalavra.dll
+C:\Users\allreles\git-dev\alura\String\SubstituiPalavra\obj\Debug\net9.0\refint\SubstituiPalavra.dll
+C:\Users\allreles\git-dev\alura\String\SubstituiPalavra\obj\Debug\net9.0\SubstituiPalavra.pdb
+C:\Users\allreles\git-dev\alura\String\SubstituiPalavra\obj\Debug\net9.0\SubstituiPalavra.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\String\SubstituiPalavra\obj\Debug\net9.0\ref\SubstituiPalavra.dll

@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\String-regex\ValidarSringNumero\bin\Debug\net9.0\ValidarSringNumero.exe
+C:\Users\allreles\git-dev\alura\String-regex\ValidarSringNumero\bin\Debug\net9.0\ValidarSringNumero.deps.json
+C:\Users\allreles\git-dev\alura\String-regex\ValidarSringNumero\bin\Debug\net9.0\ValidarSringNumero.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\String-regex\ValidarSringNumero\bin\Debug\net9.0\ValidarSringNumero.dll
+C:\Users\allreles\git-dev\alura\String-regex\ValidarSringNumero\bin\Debug\net9.0\ValidarSringNumero.pdb
+C:\Users\allreles\git-dev\alura\String-regex\ValidarSringNumero\obj\Debug\net9.0\ValidarSringNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\String-regex\ValidarSringNumero\obj\Debug\net9.0\ValidarSringNumero.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\String-regex\ValidarSringNumero\obj\Debug\net9.0\ValidarSringNumero.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\String-regex\ValidarSringNumero\obj\Debug\net9.0\ValidarSringNumero.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\String-regex\ValidarSringNumero\obj\Debug\net9.0\ValidarSringNumero.dll
+C:\Users\allreles\git-dev\alura\String-regex\ValidarSringNumero\obj\Debug\net9.0\refint\ValidarSringNumero.dll
+C:\Users\allreles\git-dev\alura\String-regex\ValidarSringNumero\obj\Debug\net9.0\ValidarSringNumero.pdb
+C:\Users\allreles\git-dev\alura\String-regex\ValidarSringNumero\obj\Debug\net9.0\ValidarSringNumero.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\String-regex\ValidarSringNumero\obj\Debug\net9.0\ref\ValidarSringNumero.dll

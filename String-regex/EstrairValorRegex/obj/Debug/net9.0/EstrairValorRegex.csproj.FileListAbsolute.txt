@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\String-regex\EstrairValorRegex\bin\Debug\net9.0\EstrairValorRegex.exe
+C:\Users\allreles\git-dev\alura\String-regex\EstrairValorRegex\bin\Debug\net9.0\EstrairValorRegex.deps.json
+C:\Users\allreles\git-dev\alura\String-regex\EstrairValorRegex\bin\Debug\net9.0\EstrairValorRegex.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\String-regex\EstrairValorRegex\bin\Debug\net9.0\EstrairValorRegex.dll
+C:\Users\allreles\git-dev\alura\String-regex\EstrairValorRegex\bin\Debug\net9.0\EstrairValorRegex.pdb
+C:\Users\allreles\git-dev\alura\String-regex\EstrairValorRegex\obj\Debug\net9.0\EstrairValorRegex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\String-regex\EstrairValorRegex\obj\Debug\net9.0\EstrairValorRegex.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\String-regex\EstrairValorRegex\obj\Debug\net9.0\EstrairValorRegex.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\String-regex\EstrairValorRegex\obj\Debug\net9.0\EstrairValorRegex.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\String-regex\EstrairValorRegex\obj\Debug\net9.0\EstrairValorRegex.dll
+C:\Users\allreles\git-dev\alura\String-regex\EstrairValorRegex\obj\Debug\net9.0\refint\EstrairValorRegex.dll
+C:\Users\allreles\git-dev\alura\String-regex\EstrairValorRegex\obj\Debug\net9.0\EstrairValorRegex.pdb
+C:\Users\allreles\git-dev\alura\String-regex\EstrairValorRegex\obj\Debug\net9.0\EstrairValorRegex.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\String-regex\EstrairValorRegex\obj\Debug\net9.0\ref\EstrairValorRegex.dll

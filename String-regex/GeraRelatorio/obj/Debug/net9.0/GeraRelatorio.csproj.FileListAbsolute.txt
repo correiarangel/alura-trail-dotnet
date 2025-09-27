@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\String\GeraRelatorio\bin\Debug\net9.0\GeraRelatorio.exe
+C:\Users\allreles\git-dev\alura\String\GeraRelatorio\bin\Debug\net9.0\GeraRelatorio.deps.json
+C:\Users\allreles\git-dev\alura\String\GeraRelatorio\bin\Debug\net9.0\GeraRelatorio.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\String\GeraRelatorio\bin\Debug\net9.0\GeraRelatorio.dll
+C:\Users\allreles\git-dev\alura\String\GeraRelatorio\bin\Debug\net9.0\GeraRelatorio.pdb
+C:\Users\allreles\git-dev\alura\String\GeraRelatorio\obj\Debug\net9.0\GeraRelatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\String\GeraRelatorio\obj\Debug\net9.0\GeraRelatorio.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\String\GeraRelatorio\obj\Debug\net9.0\GeraRelatorio.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\String\GeraRelatorio\obj\Debug\net9.0\GeraRelatorio.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\String\GeraRelatorio\obj\Debug\net9.0\GeraRelatorio.dll
+C:\Users\allreles\git-dev\alura\String\GeraRelatorio\obj\Debug\net9.0\refint\GeraRelatorio.dll
+C:\Users\allreles\git-dev\alura\String\GeraRelatorio\obj\Debug\net9.0\GeraRelatorio.pdb
+C:\Users\allreles\git-dev\alura\String\GeraRelatorio\obj\Debug\net9.0\GeraRelatorio.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\String\GeraRelatorio\obj\Debug\net9.0\ref\GeraRelatorio.dll

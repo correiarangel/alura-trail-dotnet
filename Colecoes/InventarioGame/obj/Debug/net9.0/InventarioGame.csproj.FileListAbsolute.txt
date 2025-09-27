@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\Colecoes\InventarioGame\bin\Debug\net9.0\InventarioGame.exe
+C:\Users\allreles\git-dev\alura\Colecoes\InventarioGame\bin\Debug\net9.0\InventarioGame.deps.json
+C:\Users\allreles\git-dev\alura\Colecoes\InventarioGame\bin\Debug\net9.0\InventarioGame.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\Colecoes\InventarioGame\bin\Debug\net9.0\InventarioGame.dll
+C:\Users\allreles\git-dev\alura\Colecoes\InventarioGame\bin\Debug\net9.0\InventarioGame.pdb
+C:\Users\allreles\git-dev\alura\Colecoes\InventarioGame\obj\Debug\net9.0\InventarioGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\Colecoes\InventarioGame\obj\Debug\net9.0\InventarioGame.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\Colecoes\InventarioGame\obj\Debug\net9.0\InventarioGame.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\Colecoes\InventarioGame\obj\Debug\net9.0\InventarioGame.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\Colecoes\InventarioGame\obj\Debug\net9.0\InventarioGame.dll
+C:\Users\allreles\git-dev\alura\Colecoes\InventarioGame\obj\Debug\net9.0\refint\InventarioGame.dll
+C:\Users\allreles\git-dev\alura\Colecoes\InventarioGame\obj\Debug\net9.0\InventarioGame.pdb
+C:\Users\allreles\git-dev\alura\Colecoes\InventarioGame\obj\Debug\net9.0\InventarioGame.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\Colecoes\InventarioGame\obj\Debug\net9.0\ref\InventarioGame.dll

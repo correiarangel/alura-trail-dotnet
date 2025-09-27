@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\Colecoes\ListasProdutos\bin\Debug\net9.0\ListasProdutos.exe
+C:\Users\allreles\git-dev\alura\Colecoes\ListasProdutos\bin\Debug\net9.0\ListasProdutos.deps.json
+C:\Users\allreles\git-dev\alura\Colecoes\ListasProdutos\bin\Debug\net9.0\ListasProdutos.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\Colecoes\ListasProdutos\bin\Debug\net9.0\ListasProdutos.dll
+C:\Users\allreles\git-dev\alura\Colecoes\ListasProdutos\bin\Debug\net9.0\ListasProdutos.pdb
+C:\Users\allreles\git-dev\alura\Colecoes\ListasProdutos\obj\Debug\net9.0\ListasProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\Colecoes\ListasProdutos\obj\Debug\net9.0\ListasProdutos.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\Colecoes\ListasProdutos\obj\Debug\net9.0\ListasProdutos.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\Colecoes\ListasProdutos\obj\Debug\net9.0\ListasProdutos.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\Colecoes\ListasProdutos\obj\Debug\net9.0\ListasProdutos.dll
+C:\Users\allreles\git-dev\alura\Colecoes\ListasProdutos\obj\Debug\net9.0\refint\ListasProdutos.dll
+C:\Users\allreles\git-dev\alura\Colecoes\ListasProdutos\obj\Debug\net9.0\ListasProdutos.pdb
+C:\Users\allreles\git-dev\alura\Colecoes\ListasProdutos\obj\Debug\net9.0\ListasProdutos.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\Colecoes\ListasProdutos\obj\Debug\net9.0\ref\ListasProdutos.dll

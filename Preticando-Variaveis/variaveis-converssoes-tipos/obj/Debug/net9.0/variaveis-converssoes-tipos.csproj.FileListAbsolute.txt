@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\variaveis-converssoes-tipos\bin\Debug\net9.0\variaveis-converssoes-tipos.exe
+C:\Users\allreles\git-dev\alura\variaveis-converssoes-tipos\bin\Debug\net9.0\variaveis-converssoes-tipos.deps.json
+C:\Users\allreles\git-dev\alura\variaveis-converssoes-tipos\bin\Debug\net9.0\variaveis-converssoes-tipos.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\variaveis-converssoes-tipos\bin\Debug\net9.0\variaveis-converssoes-tipos.dll
+C:\Users\allreles\git-dev\alura\variaveis-converssoes-tipos\bin\Debug\net9.0\variaveis-converssoes-tipos.pdb
+C:\Users\allreles\git-dev\alura\variaveis-converssoes-tipos\obj\Debug\net9.0\variaveis-converssoes-tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\variaveis-converssoes-tipos\obj\Debug\net9.0\variaveis-converssoes-tipos.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\variaveis-converssoes-tipos\obj\Debug\net9.0\variaveis-converssoes-tipos.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\variaveis-converssoes-tipos\obj\Debug\net9.0\variaveis-converssoes-tipos.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\variaveis-converssoes-tipos\obj\Debug\net9.0\variaveis-converssoes-tipos.dll
+C:\Users\allreles\git-dev\alura\variaveis-converssoes-tipos\obj\Debug\net9.0\refint\variaveis-converssoes-tipos.dll
+C:\Users\allreles\git-dev\alura\variaveis-converssoes-tipos\obj\Debug\net9.0\variaveis-converssoes-tipos.pdb
+C:\Users\allreles\git-dev\alura\variaveis-converssoes-tipos\obj\Debug\net9.0\variaveis-converssoes-tipos.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\variaveis-converssoes-tipos\obj\Debug\net9.0\ref\variaveis-converssoes-tipos.dll

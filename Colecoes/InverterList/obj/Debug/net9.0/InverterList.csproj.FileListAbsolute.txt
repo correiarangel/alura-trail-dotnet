@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\Colecoes\InverterList\bin\Debug\net9.0\InverterList.exe
+C:\Users\allreles\git-dev\alura\Colecoes\InverterList\bin\Debug\net9.0\InverterList.deps.json
+C:\Users\allreles\git-dev\alura\Colecoes\InverterList\bin\Debug\net9.0\InverterList.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\Colecoes\InverterList\bin\Debug\net9.0\InverterList.dll
+C:\Users\allreles\git-dev\alura\Colecoes\InverterList\bin\Debug\net9.0\InverterList.pdb
+C:\Users\allreles\git-dev\alura\Colecoes\InverterList\obj\Debug\net9.0\InverterList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\Colecoes\InverterList\obj\Debug\net9.0\InverterList.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\Colecoes\InverterList\obj\Debug\net9.0\InverterList.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\Colecoes\InverterList\obj\Debug\net9.0\InverterList.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\Colecoes\InverterList\obj\Debug\net9.0\InverterList.dll
+C:\Users\allreles\git-dev\alura\Colecoes\InverterList\obj\Debug\net9.0\refint\InverterList.dll
+C:\Users\allreles\git-dev\alura\Colecoes\InverterList\obj\Debug\net9.0\InverterList.pdb
+C:\Users\allreles\git-dev\alura\Colecoes\InverterList\obj\Debug\net9.0\InverterList.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\Colecoes\InverterList\obj\Debug\net9.0\ref\InverterList.dll

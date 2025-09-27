@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\consultaSaldo\bin\Debug\net9.0\consultaSaldo.exe
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\consultaSaldo\bin\Debug\net9.0\consultaSaldo.deps.json
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\consultaSaldo\bin\Debug\net9.0\consultaSaldo.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\consultaSaldo\bin\Debug\net9.0\consultaSaldo.dll
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\consultaSaldo\bin\Debug\net9.0\consultaSaldo.pdb
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\consultaSaldo\obj\Debug\net9.0\consultaSaldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\consultaSaldo\obj\Debug\net9.0\consultaSaldo.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\consultaSaldo\obj\Debug\net9.0\consultaSaldo.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\consultaSaldo\obj\Debug\net9.0\consultaSaldo.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\consultaSaldo\obj\Debug\net9.0\consultaSaldo.dll
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\consultaSaldo\obj\Debug\net9.0\refint\consultaSaldo.dll
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\consultaSaldo\obj\Debug\net9.0\consultaSaldo.pdb
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\consultaSaldo\obj\Debug\net9.0\consultaSaldo.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\consultaSaldo\obj\Debug\net9.0\ref\consultaSaldo.dll

@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\Colecoes\DescifrarCadiaNumerica\bin\Debug\net9.0\DescifrarCadiaNumerica.exe
+C:\Users\allreles\git-dev\alura\Colecoes\DescifrarCadiaNumerica\bin\Debug\net9.0\DescifrarCadiaNumerica.deps.json
+C:\Users\allreles\git-dev\alura\Colecoes\DescifrarCadiaNumerica\bin\Debug\net9.0\DescifrarCadiaNumerica.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\Colecoes\DescifrarCadiaNumerica\bin\Debug\net9.0\DescifrarCadiaNumerica.dll
+C:\Users\allreles\git-dev\alura\Colecoes\DescifrarCadiaNumerica\bin\Debug\net9.0\DescifrarCadiaNumerica.pdb
+C:\Users\allreles\git-dev\alura\Colecoes\DescifrarCadiaNumerica\obj\Debug\net9.0\DescifrarCadiaNumerica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\Colecoes\DescifrarCadiaNumerica\obj\Debug\net9.0\DescifrarCadiaNumerica.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\Colecoes\DescifrarCadiaNumerica\obj\Debug\net9.0\DescifrarCadiaNumerica.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\Colecoes\DescifrarCadiaNumerica\obj\Debug\net9.0\DescifrarCadiaNumerica.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\Colecoes\DescifrarCadiaNumerica\obj\Debug\net9.0\DescifrarCadiaNumerica.dll
+C:\Users\allreles\git-dev\alura\Colecoes\DescifrarCadiaNumerica\obj\Debug\net9.0\refint\DescifrarCadiaNumerica.dll
+C:\Users\allreles\git-dev\alura\Colecoes\DescifrarCadiaNumerica\obj\Debug\net9.0\DescifrarCadiaNumerica.pdb
+C:\Users\allreles\git-dev\alura\Colecoes\DescifrarCadiaNumerica\obj\Debug\net9.0\DescifrarCadiaNumerica.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\Colecoes\DescifrarCadiaNumerica\obj\Debug\net9.0\ref\DescifrarCadiaNumerica.dll

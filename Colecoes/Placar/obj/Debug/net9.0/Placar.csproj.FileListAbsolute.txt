@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\Colecoes\Placar\bin\Debug\net9.0\Placar.exe
+C:\Users\allreles\git-dev\alura\Colecoes\Placar\bin\Debug\net9.0\Placar.deps.json
+C:\Users\allreles\git-dev\alura\Colecoes\Placar\bin\Debug\net9.0\Placar.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\Colecoes\Placar\bin\Debug\net9.0\Placar.dll
+C:\Users\allreles\git-dev\alura\Colecoes\Placar\bin\Debug\net9.0\Placar.pdb
+C:\Users\allreles\git-dev\alura\Colecoes\Placar\obj\Debug\net9.0\Placar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\Colecoes\Placar\obj\Debug\net9.0\Placar.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\Colecoes\Placar\obj\Debug\net9.0\Placar.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\Colecoes\Placar\obj\Debug\net9.0\Placar.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\Colecoes\Placar\obj\Debug\net9.0\Placar.dll
+C:\Users\allreles\git-dev\alura\Colecoes\Placar\obj\Debug\net9.0\refint\Placar.dll
+C:\Users\allreles\git-dev\alura\Colecoes\Placar\obj\Debug\net9.0\Placar.pdb
+C:\Users\allreles\git-dev\alura\Colecoes\Placar\obj\Debug\net9.0\Placar.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\Colecoes\Placar\obj\Debug\net9.0\ref\Placar.dll

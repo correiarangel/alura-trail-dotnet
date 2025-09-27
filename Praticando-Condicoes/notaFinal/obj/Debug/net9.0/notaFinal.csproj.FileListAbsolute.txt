@@ -1,0 +1,14 @@
+c:\Users\allreles\git-dev\alura\Praticando-Condicoes\notaFinal\bin\Debug\net9.0\notaFinal.exe
+c:\Users\allreles\git-dev\alura\Praticando-Condicoes\notaFinal\bin\Debug\net9.0\notaFinal.deps.json
+c:\Users\allreles\git-dev\alura\Praticando-Condicoes\notaFinal\bin\Debug\net9.0\notaFinal.runtimeconfig.json
+c:\Users\allreles\git-dev\alura\Praticando-Condicoes\notaFinal\bin\Debug\net9.0\notaFinal.dll
+c:\Users\allreles\git-dev\alura\Praticando-Condicoes\notaFinal\bin\Debug\net9.0\notaFinal.pdb
+c:\Users\allreles\git-dev\alura\Praticando-Condicoes\notaFinal\obj\Debug\net9.0\notaFinal.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\allreles\git-dev\alura\Praticando-Condicoes\notaFinal\obj\Debug\net9.0\notaFinal.AssemblyInfoInputs.cache
+c:\Users\allreles\git-dev\alura\Praticando-Condicoes\notaFinal\obj\Debug\net9.0\notaFinal.AssemblyInfo.cs
+c:\Users\allreles\git-dev\alura\Praticando-Condicoes\notaFinal\obj\Debug\net9.0\notaFinal.csproj.CoreCompileInputs.cache
+c:\Users\allreles\git-dev\alura\Praticando-Condicoes\notaFinal\obj\Debug\net9.0\notaFinal.dll
+c:\Users\allreles\git-dev\alura\Praticando-Condicoes\notaFinal\obj\Debug\net9.0\refint\notaFinal.dll
+c:\Users\allreles\git-dev\alura\Praticando-Condicoes\notaFinal\obj\Debug\net9.0\notaFinal.pdb
+c:\Users\allreles\git-dev\alura\Praticando-Condicoes\notaFinal\obj\Debug\net9.0\notaFinal.genruntimeconfig.cache
+c:\Users\allreles\git-dev\alura\Praticando-Condicoes\notaFinal\obj\Debug\net9.0\ref\notaFinal.dll

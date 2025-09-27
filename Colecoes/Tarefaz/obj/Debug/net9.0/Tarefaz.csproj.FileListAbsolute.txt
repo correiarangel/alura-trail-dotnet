@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\Colecoes\Tarefaz\bin\Debug\net9.0\Tarefaz.exe
+C:\Users\allreles\git-dev\alura\Colecoes\Tarefaz\bin\Debug\net9.0\Tarefaz.deps.json
+C:\Users\allreles\git-dev\alura\Colecoes\Tarefaz\bin\Debug\net9.0\Tarefaz.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\Colecoes\Tarefaz\bin\Debug\net9.0\Tarefaz.dll
+C:\Users\allreles\git-dev\alura\Colecoes\Tarefaz\bin\Debug\net9.0\Tarefaz.pdb
+C:\Users\allreles\git-dev\alura\Colecoes\Tarefaz\obj\Debug\net9.0\Tarefaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\Colecoes\Tarefaz\obj\Debug\net9.0\Tarefaz.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\Colecoes\Tarefaz\obj\Debug\net9.0\Tarefaz.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\Colecoes\Tarefaz\obj\Debug\net9.0\Tarefaz.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\Colecoes\Tarefaz\obj\Debug\net9.0\Tarefaz.dll
+C:\Users\allreles\git-dev\alura\Colecoes\Tarefaz\obj\Debug\net9.0\refint\Tarefaz.dll
+C:\Users\allreles\git-dev\alura\Colecoes\Tarefaz\obj\Debug\net9.0\Tarefaz.pdb
+C:\Users\allreles\git-dev\alura\Colecoes\Tarefaz\obj\Debug\net9.0\Tarefaz.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\Colecoes\Tarefaz\obj\Debug\net9.0\ref\Tarefaz.dll

@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\Colecoes\ManipulandoListas\bin\Debug\net9.0\ManipulandoListas.exe
+C:\Users\allreles\git-dev\alura\Colecoes\ManipulandoListas\bin\Debug\net9.0\ManipulandoListas.deps.json
+C:\Users\allreles\git-dev\alura\Colecoes\ManipulandoListas\bin\Debug\net9.0\ManipulandoListas.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\Colecoes\ManipulandoListas\bin\Debug\net9.0\ManipulandoListas.dll
+C:\Users\allreles\git-dev\alura\Colecoes\ManipulandoListas\bin\Debug\net9.0\ManipulandoListas.pdb
+C:\Users\allreles\git-dev\alura\Colecoes\ManipulandoListas\obj\Debug\net9.0\ManipulandoListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\Colecoes\ManipulandoListas\obj\Debug\net9.0\ManipulandoListas.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\Colecoes\ManipulandoListas\obj\Debug\net9.0\ManipulandoListas.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\Colecoes\ManipulandoListas\obj\Debug\net9.0\ManipulandoListas.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\Colecoes\ManipulandoListas\obj\Debug\net9.0\ManipulandoListas.dll
+C:\Users\allreles\git-dev\alura\Colecoes\ManipulandoListas\obj\Debug\net9.0\refint\ManipulandoListas.dll
+C:\Users\allreles\git-dev\alura\Colecoes\ManipulandoListas\obj\Debug\net9.0\ManipulandoListas.pdb
+C:\Users\allreles\git-dev\alura\Colecoes\ManipulandoListas\obj\Debug\net9.0\ManipulandoListas.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\Colecoes\ManipulandoListas\obj\Debug\net9.0\ref\ManipulandoListas.dll

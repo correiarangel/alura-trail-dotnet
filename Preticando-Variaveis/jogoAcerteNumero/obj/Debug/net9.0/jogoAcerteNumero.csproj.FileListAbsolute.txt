@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\jogoAcerteNumero\bin\Debug\net9.0\jogoAcerteNumero.exe
+C:\Users\allreles\git-dev\alura\jogoAcerteNumero\bin\Debug\net9.0\jogoAcerteNumero.deps.json
+C:\Users\allreles\git-dev\alura\jogoAcerteNumero\bin\Debug\net9.0\jogoAcerteNumero.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\jogoAcerteNumero\bin\Debug\net9.0\jogoAcerteNumero.dll
+C:\Users\allreles\git-dev\alura\jogoAcerteNumero\bin\Debug\net9.0\jogoAcerteNumero.pdb
+C:\Users\allreles\git-dev\alura\jogoAcerteNumero\obj\Debug\net9.0\jogoAcerteNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\jogoAcerteNumero\obj\Debug\net9.0\jogoAcerteNumero.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\jogoAcerteNumero\obj\Debug\net9.0\jogoAcerteNumero.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\jogoAcerteNumero\obj\Debug\net9.0\jogoAcerteNumero.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\jogoAcerteNumero\obj\Debug\net9.0\jogoAcerteNumero.dll
+C:\Users\allreles\git-dev\alura\jogoAcerteNumero\obj\Debug\net9.0\refint\jogoAcerteNumero.dll
+C:\Users\allreles\git-dev\alura\jogoAcerteNumero\obj\Debug\net9.0\jogoAcerteNumero.pdb
+C:\Users\allreles\git-dev\alura\jogoAcerteNumero\obj\Debug\net9.0\jogoAcerteNumero.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\jogoAcerteNumero\obj\Debug\net9.0\ref\jogoAcerteNumero.dll

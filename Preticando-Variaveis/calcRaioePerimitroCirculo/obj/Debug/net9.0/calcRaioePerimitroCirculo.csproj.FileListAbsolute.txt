@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\calcRaioePerimitroCirculo\bin\Debug\net9.0\calcRaioePerimitroCirculo.exe
+C:\Users\allreles\git-dev\alura\calcRaioePerimitroCirculo\bin\Debug\net9.0\calcRaioePerimitroCirculo.deps.json
+C:\Users\allreles\git-dev\alura\calcRaioePerimitroCirculo\bin\Debug\net9.0\calcRaioePerimitroCirculo.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\calcRaioePerimitroCirculo\bin\Debug\net9.0\calcRaioePerimitroCirculo.dll
+C:\Users\allreles\git-dev\alura\calcRaioePerimitroCirculo\bin\Debug\net9.0\calcRaioePerimitroCirculo.pdb
+C:\Users\allreles\git-dev\alura\calcRaioePerimitroCirculo\obj\Debug\net9.0\calcRaioePerimitroCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\calcRaioePerimitroCirculo\obj\Debug\net9.0\calcRaioePerimitroCirculo.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\calcRaioePerimitroCirculo\obj\Debug\net9.0\calcRaioePerimitroCirculo.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\calcRaioePerimitroCirculo\obj\Debug\net9.0\calcRaioePerimitroCirculo.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\calcRaioePerimitroCirculo\obj\Debug\net9.0\calcRaioePerimitroCirculo.dll
+C:\Users\allreles\git-dev\alura\calcRaioePerimitroCirculo\obj\Debug\net9.0\refint\calcRaioePerimitroCirculo.dll
+C:\Users\allreles\git-dev\alura\calcRaioePerimitroCirculo\obj\Debug\net9.0\calcRaioePerimitroCirculo.pdb
+C:\Users\allreles\git-dev\alura\calcRaioePerimitroCirculo\obj\Debug\net9.0\calcRaioePerimitroCirculo.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\calcRaioePerimitroCirculo\obj\Debug\net9.0\ref\calcRaioePerimitroCirculo.dll

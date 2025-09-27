@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Saudacao\bin\Debug\net9.0\Saudacao.exe
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Saudacao\bin\Debug\net9.0\Saudacao.deps.json
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Saudacao\bin\Debug\net9.0\Saudacao.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Saudacao\bin\Debug\net9.0\Saudacao.dll
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Saudacao\bin\Debug\net9.0\Saudacao.pdb
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Saudacao\obj\Debug\net9.0\Saudacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Saudacao\obj\Debug\net9.0\Saudacao.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Saudacao\obj\Debug\net9.0\Saudacao.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Saudacao\obj\Debug\net9.0\Saudacao.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Saudacao\obj\Debug\net9.0\Saudacao.dll
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Saudacao\obj\Debug\net9.0\refint\Saudacao.dll
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Saudacao\obj\Debug\net9.0\Saudacao.pdb
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Saudacao\obj\Debug\net9.0\Saudacao.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\Praticando-Condicoes\Saudacao\obj\Debug\net9.0\ref\Saudacao.dll

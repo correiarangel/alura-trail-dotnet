@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\String\PesquisaPalavraEmString\bin\Debug\net9.0\PesquisaPalavraEmString.exe
+C:\Users\allreles\git-dev\alura\String\PesquisaPalavraEmString\bin\Debug\net9.0\PesquisaPalavraEmString.deps.json
+C:\Users\allreles\git-dev\alura\String\PesquisaPalavraEmString\bin\Debug\net9.0\PesquisaPalavraEmString.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\String\PesquisaPalavraEmString\bin\Debug\net9.0\PesquisaPalavraEmString.dll
+C:\Users\allreles\git-dev\alura\String\PesquisaPalavraEmString\bin\Debug\net9.0\PesquisaPalavraEmString.pdb
+C:\Users\allreles\git-dev\alura\String\PesquisaPalavraEmString\obj\Debug\net9.0\PesquisaPalavraEmString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\String\PesquisaPalavraEmString\obj\Debug\net9.0\PesquisaPalavraEmString.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\String\PesquisaPalavraEmString\obj\Debug\net9.0\PesquisaPalavraEmString.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\String\PesquisaPalavraEmString\obj\Debug\net9.0\PesquisaPalavraEmString.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\String\PesquisaPalavraEmString\obj\Debug\net9.0\PesquisaPalavraEmString.dll
+C:\Users\allreles\git-dev\alura\String\PesquisaPalavraEmString\obj\Debug\net9.0\refint\PesquisaPalavraEmString.dll
+C:\Users\allreles\git-dev\alura\String\PesquisaPalavraEmString\obj\Debug\net9.0\PesquisaPalavraEmString.pdb
+C:\Users\allreles\git-dev\alura\String\PesquisaPalavraEmString\obj\Debug\net9.0\PesquisaPalavraEmString.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\String\PesquisaPalavraEmString\obj\Debug\net9.0\ref\PesquisaPalavraEmString.dll

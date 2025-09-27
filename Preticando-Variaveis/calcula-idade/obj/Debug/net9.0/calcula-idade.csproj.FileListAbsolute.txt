@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\calcula-idade\bin\Debug\net9.0\calcula-idade.exe
+C:\Users\allreles\git-dev\alura\calcula-idade\bin\Debug\net9.0\calcula-idade.deps.json
+C:\Users\allreles\git-dev\alura\calcula-idade\bin\Debug\net9.0\calcula-idade.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\calcula-idade\bin\Debug\net9.0\calcula-idade.dll
+C:\Users\allreles\git-dev\alura\calcula-idade\bin\Debug\net9.0\calcula-idade.pdb
+C:\Users\allreles\git-dev\alura\calcula-idade\obj\Debug\net9.0\calcula-idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\calcula-idade\obj\Debug\net9.0\calcula-idade.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\calcula-idade\obj\Debug\net9.0\calcula-idade.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\calcula-idade\obj\Debug\net9.0\calcula-idade.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\calcula-idade\obj\Debug\net9.0\calcula-idade.dll
+C:\Users\allreles\git-dev\alura\calcula-idade\obj\Debug\net9.0\refint\calcula-idade.dll
+C:\Users\allreles\git-dev\alura\calcula-idade\obj\Debug\net9.0\calcula-idade.pdb
+C:\Users\allreles\git-dev\alura\calcula-idade\obj\Debug\net9.0\calcula-idade.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\calcula-idade\obj\Debug\net9.0\ref\calcula-idade.dll

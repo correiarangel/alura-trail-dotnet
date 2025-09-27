@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\QualNumeroDigitado\bin\Debug\net9.0\QualNumeroDigitado.exe
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\QualNumeroDigitado\bin\Debug\net9.0\QualNumeroDigitado.deps.json
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\QualNumeroDigitado\bin\Debug\net9.0\QualNumeroDigitado.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\QualNumeroDigitado\bin\Debug\net9.0\QualNumeroDigitado.dll
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\QualNumeroDigitado\bin\Debug\net9.0\QualNumeroDigitado.pdb
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\QualNumeroDigitado\obj\Debug\net9.0\QualNumeroDigitado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\QualNumeroDigitado\obj\Debug\net9.0\QualNumeroDigitado.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\QualNumeroDigitado\obj\Debug\net9.0\QualNumeroDigitado.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\QualNumeroDigitado\obj\Debug\net9.0\QualNumeroDigitado.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\QualNumeroDigitado\obj\Debug\net9.0\QualNumeroDigitado.dll
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\QualNumeroDigitado\obj\Debug\net9.0\refint\QualNumeroDigitado.dll
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\QualNumeroDigitado\obj\Debug\net9.0\QualNumeroDigitado.pdb
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\QualNumeroDigitado\obj\Debug\net9.0\QualNumeroDigitado.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\QualNumeroDigitado\obj\Debug\net9.0\ref\QualNumeroDigitado.dll

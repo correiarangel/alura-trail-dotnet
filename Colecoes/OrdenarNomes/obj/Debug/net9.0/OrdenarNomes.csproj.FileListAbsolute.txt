@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\Colecoes\OrdenarNomes\bin\Debug\net9.0\OrdenarNomes.exe
+C:\Users\allreles\git-dev\alura\Colecoes\OrdenarNomes\bin\Debug\net9.0\OrdenarNomes.deps.json
+C:\Users\allreles\git-dev\alura\Colecoes\OrdenarNomes\bin\Debug\net9.0\OrdenarNomes.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\Colecoes\OrdenarNomes\bin\Debug\net9.0\OrdenarNomes.dll
+C:\Users\allreles\git-dev\alura\Colecoes\OrdenarNomes\bin\Debug\net9.0\OrdenarNomes.pdb
+C:\Users\allreles\git-dev\alura\Colecoes\OrdenarNomes\obj\Debug\net9.0\OrdenarNomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\Colecoes\OrdenarNomes\obj\Debug\net9.0\OrdenarNomes.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\Colecoes\OrdenarNomes\obj\Debug\net9.0\OrdenarNomes.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\Colecoes\OrdenarNomes\obj\Debug\net9.0\OrdenarNomes.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\Colecoes\OrdenarNomes\obj\Debug\net9.0\OrdenarNomes.dll
+C:\Users\allreles\git-dev\alura\Colecoes\OrdenarNomes\obj\Debug\net9.0\refint\OrdenarNomes.dll
+C:\Users\allreles\git-dev\alura\Colecoes\OrdenarNomes\obj\Debug\net9.0\OrdenarNomes.pdb
+C:\Users\allreles\git-dev\alura\Colecoes\OrdenarNomes\obj\Debug\net9.0\OrdenarNomes.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\Colecoes\OrdenarNomes\obj\Debug\net9.0\ref\OrdenarNomes.dll

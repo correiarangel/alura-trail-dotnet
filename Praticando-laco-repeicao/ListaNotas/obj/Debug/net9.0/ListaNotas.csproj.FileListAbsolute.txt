@@ -1,0 +1,14 @@
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ListaNotas\bin\Debug\net9.0\ListaNotas.exe
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ListaNotas\bin\Debug\net9.0\ListaNotas.deps.json
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ListaNotas\bin\Debug\net9.0\ListaNotas.runtimeconfig.json
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ListaNotas\bin\Debug\net9.0\ListaNotas.dll
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ListaNotas\bin\Debug\net9.0\ListaNotas.pdb
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ListaNotas\obj\Debug\net9.0\ListaNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ListaNotas\obj\Debug\net9.0\ListaNotas.AssemblyInfoInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ListaNotas\obj\Debug\net9.0\ListaNotas.AssemblyInfo.cs
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ListaNotas\obj\Debug\net9.0\ListaNotas.csproj.CoreCompileInputs.cache
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ListaNotas\obj\Debug\net9.0\ListaNotas.dll
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ListaNotas\obj\Debug\net9.0\refint\ListaNotas.dll
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ListaNotas\obj\Debug\net9.0\ListaNotas.pdb
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ListaNotas\obj\Debug\net9.0\ListaNotas.genruntimeconfig.cache
+C:\Users\allreles\git-dev\alura\Praticando-laco-repeicao\ListaNotas\obj\Debug\net9.0\ref\ListaNotas.dll
