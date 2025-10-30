@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/class/Pedidos/bin/Debug/net9.0/Pedidos
+/home/rangel/git-dev/alura-trail-dotnet/class/Pedidos/bin/Debug/net9.0/Pedidos.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/class/Pedidos/bin/Debug/net9.0/Pedidos.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/class/Pedidos/bin/Debug/net9.0/Pedidos.dll
+/home/rangel/git-dev/alura-trail-dotnet/class/Pedidos/bin/Debug/net9.0/Pedidos.pdb
+/home/rangel/git-dev/alura-trail-dotnet/class/Pedidos/obj/Debug/net9.0/Pedidos.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/class/Pedidos/obj/Debug/net9.0/Pedidos.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/class/Pedidos/obj/Debug/net9.0/Pedidos.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/class/Pedidos/obj/Debug/net9.0/Pedidos.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/class/Pedidos/obj/Debug/net9.0/Pedidos.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/class/Pedidos/obj/Debug/net9.0/Pedidos.dll
+/home/rangel/git-dev/alura-trail-dotnet/class/Pedidos/obj/Debug/net9.0/refint/Pedidos.dll
+/home/rangel/git-dev/alura-trail-dotnet/class/Pedidos/obj/Debug/net9.0/Pedidos.pdb
+/home/rangel/git-dev/alura-trail-dotnet/class/Pedidos/obj/Debug/net9.0/Pedidos.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/class/Pedidos/obj/Debug/net9.0/ref/Pedidos.dll

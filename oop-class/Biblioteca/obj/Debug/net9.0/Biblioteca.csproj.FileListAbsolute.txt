@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/class/Biblioteca/bin/Debug/net9.0/Biblioteca
+/home/rangel/git-dev/alura-trail-dotnet/class/Biblioteca/bin/Debug/net9.0/Biblioteca.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/class/Biblioteca/bin/Debug/net9.0/Biblioteca.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/class/Biblioteca/bin/Debug/net9.0/Biblioteca.dll
+/home/rangel/git-dev/alura-trail-dotnet/class/Biblioteca/bin/Debug/net9.0/Biblioteca.pdb
+/home/rangel/git-dev/alura-trail-dotnet/class/Biblioteca/obj/Debug/net9.0/Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/class/Biblioteca/obj/Debug/net9.0/Biblioteca.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/class/Biblioteca/obj/Debug/net9.0/Biblioteca.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/class/Biblioteca/obj/Debug/net9.0/Biblioteca.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/class/Biblioteca/obj/Debug/net9.0/Biblioteca.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/class/Biblioteca/obj/Debug/net9.0/Biblioteca.dll
+/home/rangel/git-dev/alura-trail-dotnet/class/Biblioteca/obj/Debug/net9.0/refint/Biblioteca.dll
+/home/rangel/git-dev/alura-trail-dotnet/class/Biblioteca/obj/Debug/net9.0/Biblioteca.pdb
+/home/rangel/git-dev/alura-trail-dotnet/class/Biblioteca/obj/Debug/net9.0/Biblioteca.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/class/Biblioteca/obj/Debug/net9.0/ref/Biblioteca.dll

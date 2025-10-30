@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/class/ClassificarEtaria/bin/Debug/net9.0/ClassificarEtaria
+/home/rangel/git-dev/alura-trail-dotnet/class/ClassificarEtaria/bin/Debug/net9.0/ClassificarEtaria.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/class/ClassificarEtaria/bin/Debug/net9.0/ClassificarEtaria.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/class/ClassificarEtaria/bin/Debug/net9.0/ClassificarEtaria.dll
+/home/rangel/git-dev/alura-trail-dotnet/class/ClassificarEtaria/bin/Debug/net9.0/ClassificarEtaria.pdb
+/home/rangel/git-dev/alura-trail-dotnet/class/ClassificarEtaria/obj/Debug/net9.0/ClassificarEtaria.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/class/ClassificarEtaria/obj/Debug/net9.0/ClassificarEtaria.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/class/ClassificarEtaria/obj/Debug/net9.0/ClassificarEtaria.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/class/ClassificarEtaria/obj/Debug/net9.0/ClassificarEtaria.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/class/ClassificarEtaria/obj/Debug/net9.0/ClassificarEtaria.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/class/ClassificarEtaria/obj/Debug/net9.0/ClassificarEtaria.dll
+/home/rangel/git-dev/alura-trail-dotnet/class/ClassificarEtaria/obj/Debug/net9.0/refint/ClassificarEtaria.dll
+/home/rangel/git-dev/alura-trail-dotnet/class/ClassificarEtaria/obj/Debug/net9.0/ClassificarEtaria.pdb
+/home/rangel/git-dev/alura-trail-dotnet/class/ClassificarEtaria/obj/Debug/net9.0/ClassificarEtaria.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/class/ClassificarEtaria/obj/Debug/net9.0/ref/ClassificarEtaria.dll

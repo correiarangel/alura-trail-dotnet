@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/class/Viagem/bin/Debug/net9.0/Viagem
+/home/rangel/git-dev/alura-trail-dotnet/class/Viagem/bin/Debug/net9.0/Viagem.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/class/Viagem/bin/Debug/net9.0/Viagem.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/class/Viagem/bin/Debug/net9.0/Viagem.dll
+/home/rangel/git-dev/alura-trail-dotnet/class/Viagem/bin/Debug/net9.0/Viagem.pdb
+/home/rangel/git-dev/alura-trail-dotnet/class/Viagem/obj/Debug/net9.0/Viagem.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/class/Viagem/obj/Debug/net9.0/Viagem.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/class/Viagem/obj/Debug/net9.0/Viagem.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/class/Viagem/obj/Debug/net9.0/Viagem.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/class/Viagem/obj/Debug/net9.0/Viagem.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/class/Viagem/obj/Debug/net9.0/Viagem.dll
+/home/rangel/git-dev/alura-trail-dotnet/class/Viagem/obj/Debug/net9.0/refint/Viagem.dll
+/home/rangel/git-dev/alura-trail-dotnet/class/Viagem/obj/Debug/net9.0/Viagem.pdb
+/home/rangel/git-dev/alura-trail-dotnet/class/Viagem/obj/Debug/net9.0/Viagem.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/class/Viagem/obj/Debug/net9.0/ref/Viagem.dll

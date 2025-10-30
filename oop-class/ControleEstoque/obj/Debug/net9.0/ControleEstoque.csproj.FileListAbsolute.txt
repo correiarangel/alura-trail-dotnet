@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/class/ControleEstoque/bin/Debug/net9.0/ControleEstoque
+/home/rangel/git-dev/alura-trail-dotnet/class/ControleEstoque/bin/Debug/net9.0/ControleEstoque.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/class/ControleEstoque/bin/Debug/net9.0/ControleEstoque.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/class/ControleEstoque/bin/Debug/net9.0/ControleEstoque.dll
+/home/rangel/git-dev/alura-trail-dotnet/class/ControleEstoque/bin/Debug/net9.0/ControleEstoque.pdb
+/home/rangel/git-dev/alura-trail-dotnet/class/ControleEstoque/obj/Debug/net9.0/ControleEstoque.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/class/ControleEstoque/obj/Debug/net9.0/ControleEstoque.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/class/ControleEstoque/obj/Debug/net9.0/ControleEstoque.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/class/ControleEstoque/obj/Debug/net9.0/ControleEstoque.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/class/ControleEstoque/obj/Debug/net9.0/ControleEstoque.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/class/ControleEstoque/obj/Debug/net9.0/ControleEstoque.dll
+/home/rangel/git-dev/alura-trail-dotnet/class/ControleEstoque/obj/Debug/net9.0/refint/ControleEstoque.dll
+/home/rangel/git-dev/alura-trail-dotnet/class/ControleEstoque/obj/Debug/net9.0/ControleEstoque.pdb
+/home/rangel/git-dev/alura-trail-dotnet/class/ControleEstoque/obj/Debug/net9.0/ControleEstoque.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/class/ControleEstoque/obj/Debug/net9.0/ref/ControleEstoque.dll

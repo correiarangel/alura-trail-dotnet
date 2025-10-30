@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/class/ManageEmployee/bin/Debug/net9.0/ManageEmployee
+/home/rangel/git-dev/alura-trail-dotnet/class/ManageEmployee/bin/Debug/net9.0/ManageEmployee.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/class/ManageEmployee/bin/Debug/net9.0/ManageEmployee.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/class/ManageEmployee/bin/Debug/net9.0/ManageEmployee.dll
+/home/rangel/git-dev/alura-trail-dotnet/class/ManageEmployee/bin/Debug/net9.0/ManageEmployee.pdb
+/home/rangel/git-dev/alura-trail-dotnet/class/ManageEmployee/obj/Debug/net9.0/ManageEmployee.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/class/ManageEmployee/obj/Debug/net9.0/ManageEmployee.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/class/ManageEmployee/obj/Debug/net9.0/ManageEmployee.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/class/ManageEmployee/obj/Debug/net9.0/ManageEmployee.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/class/ManageEmployee/obj/Debug/net9.0/ManageEmployee.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/class/ManageEmployee/obj/Debug/net9.0/ManageEmployee.dll
+/home/rangel/git-dev/alura-trail-dotnet/class/ManageEmployee/obj/Debug/net9.0/refint/ManageEmployee.dll
+/home/rangel/git-dev/alura-trail-dotnet/class/ManageEmployee/obj/Debug/net9.0/ManageEmployee.pdb
+/home/rangel/git-dev/alura-trail-dotnet/class/ManageEmployee/obj/Debug/net9.0/ManageEmployee.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/class/ManageEmployee/obj/Debug/net9.0/ref/ManageEmployee.dll

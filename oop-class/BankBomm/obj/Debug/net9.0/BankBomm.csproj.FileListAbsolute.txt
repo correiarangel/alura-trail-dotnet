@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/class/BankBomm/bin/Debug/net9.0/BankBomm
+/home/rangel/git-dev/alura-trail-dotnet/class/BankBomm/bin/Debug/net9.0/BankBomm.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/class/BankBomm/bin/Debug/net9.0/BankBomm.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/class/BankBomm/bin/Debug/net9.0/BankBomm.dll
+/home/rangel/git-dev/alura-trail-dotnet/class/BankBomm/bin/Debug/net9.0/BankBomm.pdb
+/home/rangel/git-dev/alura-trail-dotnet/class/BankBomm/obj/Debug/net9.0/BankBomm.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/class/BankBomm/obj/Debug/net9.0/BankBomm.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/class/BankBomm/obj/Debug/net9.0/BankBomm.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/class/BankBomm/obj/Debug/net9.0/BankBomm.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/class/BankBomm/obj/Debug/net9.0/BankBomm.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/class/BankBomm/obj/Debug/net9.0/BankBomm.dll
+/home/rangel/git-dev/alura-trail-dotnet/class/BankBomm/obj/Debug/net9.0/refint/BankBomm.dll
+/home/rangel/git-dev/alura-trail-dotnet/class/BankBomm/obj/Debug/net9.0/BankBomm.pdb
+/home/rangel/git-dev/alura-trail-dotnet/class/BankBomm/obj/Debug/net9.0/BankBomm.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/class/BankBomm/obj/Debug/net9.0/ref/BankBomm.dll

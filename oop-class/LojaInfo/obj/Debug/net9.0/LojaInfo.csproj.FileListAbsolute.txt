@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/class/LojaInfo/bin/Debug/net9.0/LojaInfo
+/home/rangel/git-dev/alura-trail-dotnet/class/LojaInfo/bin/Debug/net9.0/LojaInfo.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/class/LojaInfo/bin/Debug/net9.0/LojaInfo.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/class/LojaInfo/bin/Debug/net9.0/LojaInfo.dll
+/home/rangel/git-dev/alura-trail-dotnet/class/LojaInfo/bin/Debug/net9.0/LojaInfo.pdb
+/home/rangel/git-dev/alura-trail-dotnet/class/LojaInfo/obj/Debug/net9.0/LojaInfo.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/class/LojaInfo/obj/Debug/net9.0/LojaInfo.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/class/LojaInfo/obj/Debug/net9.0/LojaInfo.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/class/LojaInfo/obj/Debug/net9.0/LojaInfo.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/class/LojaInfo/obj/Debug/net9.0/LojaInfo.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/class/LojaInfo/obj/Debug/net9.0/LojaInfo.dll
+/home/rangel/git-dev/alura-trail-dotnet/class/LojaInfo/obj/Debug/net9.0/refint/LojaInfo.dll
+/home/rangel/git-dev/alura-trail-dotnet/class/LojaInfo/obj/Debug/net9.0/LojaInfo.pdb
+/home/rangel/git-dev/alura-trail-dotnet/class/LojaInfo/obj/Debug/net9.0/LojaInfo.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/class/LojaInfo/obj/Debug/net9.0/ref/LojaInfo.dll

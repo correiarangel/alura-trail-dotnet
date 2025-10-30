@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/class/Retangulo/bin/Debug/net9.0/Retangulo
+/home/rangel/git-dev/alura-trail-dotnet/class/Retangulo/bin/Debug/net9.0/Retangulo.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/class/Retangulo/bin/Debug/net9.0/Retangulo.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/class/Retangulo/bin/Debug/net9.0/Retangulo.dll
+/home/rangel/git-dev/alura-trail-dotnet/class/Retangulo/bin/Debug/net9.0/Retangulo.pdb
+/home/rangel/git-dev/alura-trail-dotnet/class/Retangulo/obj/Debug/net9.0/Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/class/Retangulo/obj/Debug/net9.0/Retangulo.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/class/Retangulo/obj/Debug/net9.0/Retangulo.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/class/Retangulo/obj/Debug/net9.0/Retangulo.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/class/Retangulo/obj/Debug/net9.0/Retangulo.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/class/Retangulo/obj/Debug/net9.0/Retangulo.dll
+/home/rangel/git-dev/alura-trail-dotnet/class/Retangulo/obj/Debug/net9.0/refint/Retangulo.dll
+/home/rangel/git-dev/alura-trail-dotnet/class/Retangulo/obj/Debug/net9.0/Retangulo.pdb
+/home/rangel/git-dev/alura-trail-dotnet/class/Retangulo/obj/Debug/net9.0/Retangulo.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/class/Retangulo/obj/Debug/net9.0/ref/Retangulo.dll

@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Prontuario/bin/Debug/net9.0/Prontuario
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Prontuario/bin/Debug/net9.0/Prontuario.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Prontuario/bin/Debug/net9.0/Prontuario.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Prontuario/bin/Debug/net9.0/Prontuario.dll
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Prontuario/bin/Debug/net9.0/Prontuario.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Prontuario/obj/Debug/net9.0/Prontuario.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Prontuario/obj/Debug/net9.0/Prontuario.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Prontuario/obj/Debug/net9.0/Prontuario.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Prontuario/obj/Debug/net9.0/Prontuario.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Prontuario/obj/Debug/net9.0/Prontuario.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Prontuario/obj/Debug/net9.0/Prontuario.dll
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Prontuario/obj/Debug/net9.0/refint/Prontuario.dll
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Prontuario/obj/Debug/net9.0/Prontuario.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Prontuario/obj/Debug/net9.0/Prontuario.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Prontuario/obj/Debug/net9.0/ref/Prontuario.dll

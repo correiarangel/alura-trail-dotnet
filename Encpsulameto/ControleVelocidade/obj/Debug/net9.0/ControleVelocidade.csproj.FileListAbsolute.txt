@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleVelocidade/bin/Debug/net9.0/ControleVelocidade
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleVelocidade/bin/Debug/net9.0/ControleVelocidade.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleVelocidade/bin/Debug/net9.0/ControleVelocidade.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleVelocidade/bin/Debug/net9.0/ControleVelocidade.dll
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleVelocidade/bin/Debug/net9.0/ControleVelocidade.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleVelocidade/obj/Debug/net9.0/ControleVelocidade.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleVelocidade/obj/Debug/net9.0/ControleVelocidade.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleVelocidade/obj/Debug/net9.0/ControleVelocidade.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleVelocidade/obj/Debug/net9.0/ControleVelocidade.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleVelocidade/obj/Debug/net9.0/ControleVelocidade.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleVelocidade/obj/Debug/net9.0/ControleVelocidade.dll
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleVelocidade/obj/Debug/net9.0/refint/ControleVelocidade.dll
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleVelocidade/obj/Debug/net9.0/ControleVelocidade.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleVelocidade/obj/Debug/net9.0/ControleVelocidade.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleVelocidade/obj/Debug/net9.0/ref/ControleVelocidade.dll

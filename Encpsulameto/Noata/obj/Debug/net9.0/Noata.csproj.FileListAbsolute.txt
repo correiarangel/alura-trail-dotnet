@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Noata/bin/Debug/net9.0/Noata
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Noata/bin/Debug/net9.0/Noata.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Noata/bin/Debug/net9.0/Noata.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Noata/bin/Debug/net9.0/Noata.dll
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Noata/bin/Debug/net9.0/Noata.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Noata/obj/Debug/net9.0/Noata.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Noata/obj/Debug/net9.0/Noata.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Noata/obj/Debug/net9.0/Noata.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Noata/obj/Debug/net9.0/Noata.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Noata/obj/Debug/net9.0/Noata.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Noata/obj/Debug/net9.0/Noata.dll
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Noata/obj/Debug/net9.0/refint/Noata.dll
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Noata/obj/Debug/net9.0/Noata.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Noata/obj/Debug/net9.0/Noata.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/Noata/obj/Debug/net9.0/ref/Noata.dll
