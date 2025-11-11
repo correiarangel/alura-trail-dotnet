@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CertificadoProfissional/bin/Debug/net9.0/CertificadoProfissional
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CertificadoProfissional/bin/Debug/net9.0/CertificadoProfissional.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CertificadoProfissional/bin/Debug/net9.0/CertificadoProfissional.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CertificadoProfissional/bin/Debug/net9.0/CertificadoProfissional.dll
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CertificadoProfissional/bin/Debug/net9.0/CertificadoProfissional.pdb
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CertificadoProfissional/obj/Debug/net9.0/CertificadoProfissional.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CertificadoProfissional/obj/Debug/net9.0/CertificadoProfissional.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CertificadoProfissional/obj/Debug/net9.0/CertificadoProfissional.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CertificadoProfissional/obj/Debug/net9.0/CertificadoProfissional.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CertificadoProfissional/obj/Debug/net9.0/CertificadoProfissional.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CertificadoProfissional/obj/Debug/net9.0/CertificadoProfissional.dll
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CertificadoProfissional/obj/Debug/net9.0/refint/CertificadoProfissional.dll
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CertificadoProfissional/obj/Debug/net9.0/CertificadoProfissional.pdb
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CertificadoProfissional/obj/Debug/net9.0/CertificadoProfissional.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CertificadoProfissional/obj/Debug/net9.0/ref/CertificadoProfissional.dll

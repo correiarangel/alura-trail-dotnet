@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroPassageiro/bin/Debug/net9.0/CadastroPassageiro
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroPassageiro/bin/Debug/net9.0/CadastroPassageiro.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroPassageiro/bin/Debug/net9.0/CadastroPassageiro.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroPassageiro/bin/Debug/net9.0/CadastroPassageiro.dll
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroPassageiro/bin/Debug/net9.0/CadastroPassageiro.pdb
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroPassageiro/obj/Debug/net9.0/CadastroPassageiro.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroPassageiro/obj/Debug/net9.0/CadastroPassageiro.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroPassageiro/obj/Debug/net9.0/CadastroPassageiro.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroPassageiro/obj/Debug/net9.0/CadastroPassageiro.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroPassageiro/obj/Debug/net9.0/CadastroPassageiro.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroPassageiro/obj/Debug/net9.0/CadastroPassageiro.dll
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroPassageiro/obj/Debug/net9.0/refint/CadastroPassageiro.dll
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroPassageiro/obj/Debug/net9.0/CadastroPassageiro.pdb
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroPassageiro/obj/Debug/net9.0/CadastroPassageiro.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroPassageiro/obj/Debug/net9.0/ref/CadastroPassageiro.dll

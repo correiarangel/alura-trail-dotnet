@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroFuncionario/bin/Debug/net9.0/CadastroFuncionario
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroFuncionario/bin/Debug/net9.0/CadastroFuncionario.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroFuncionario/bin/Debug/net9.0/CadastroFuncionario.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroFuncionario/bin/Debug/net9.0/CadastroFuncionario.dll
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroFuncionario/bin/Debug/net9.0/CadastroFuncionario.pdb
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroFuncionario/obj/Debug/net9.0/CadastroFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroFuncionario/obj/Debug/net9.0/CadastroFuncionario.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroFuncionario/obj/Debug/net9.0/CadastroFuncionario.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroFuncionario/obj/Debug/net9.0/CadastroFuncionario.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroFuncionario/obj/Debug/net9.0/CadastroFuncionario.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroFuncionario/obj/Debug/net9.0/CadastroFuncionario.dll
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroFuncionario/obj/Debug/net9.0/refint/CadastroFuncionario.dll
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroFuncionario/obj/Debug/net9.0/CadastroFuncionario.pdb
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroFuncionario/obj/Debug/net9.0/CadastroFuncionario.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/CadastroFuncionario/obj/Debug/net9.0/ref/CadastroFuncionario.dll

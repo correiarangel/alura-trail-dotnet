@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/RegistroCliente/bin/Debug/net9.0/RegistroCliente
+/home/rangel/git-dev/alura-trail-dotnet/RegistroCliente/bin/Debug/net9.0/RegistroCliente.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/RegistroCliente/bin/Debug/net9.0/RegistroCliente.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/RegistroCliente/bin/Debug/net9.0/RegistroCliente.dll
+/home/rangel/git-dev/alura-trail-dotnet/RegistroCliente/bin/Debug/net9.0/RegistroCliente.pdb
+/home/rangel/git-dev/alura-trail-dotnet/RegistroCliente/obj/Debug/net9.0/RegistroCliente.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/RegistroCliente/obj/Debug/net9.0/RegistroCliente.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/RegistroCliente/obj/Debug/net9.0/RegistroCliente.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/RegistroCliente/obj/Debug/net9.0/RegistroCliente.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/RegistroCliente/obj/Debug/net9.0/RegistroCliente.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/RegistroCliente/obj/Debug/net9.0/RegistroCliente.dll
+/home/rangel/git-dev/alura-trail-dotnet/RegistroCliente/obj/Debug/net9.0/refint/RegistroCliente.dll
+/home/rangel/git-dev/alura-trail-dotnet/RegistroCliente/obj/Debug/net9.0/RegistroCliente.pdb
+/home/rangel/git-dev/alura-trail-dotnet/RegistroCliente/obj/Debug/net9.0/RegistroCliente.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/RegistroCliente/obj/Debug/net9.0/ref/RegistroCliente.dll
