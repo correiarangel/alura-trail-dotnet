@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ReajusteSalarial/bin/Debug/net9.0/ReajusteSalarial
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ReajusteSalarial/bin/Debug/net9.0/ReajusteSalarial.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ReajusteSalarial/bin/Debug/net9.0/ReajusteSalarial.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ReajusteSalarial/bin/Debug/net9.0/ReajusteSalarial.dll
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ReajusteSalarial/bin/Debug/net9.0/ReajusteSalarial.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ReajusteSalarial/obj/Debug/net9.0/ReajusteSalarial.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ReajusteSalarial/obj/Debug/net9.0/ReajusteSalarial.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ReajusteSalarial/obj/Debug/net9.0/ReajusteSalarial.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ReajusteSalarial/obj/Debug/net9.0/ReajusteSalarial.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ReajusteSalarial/obj/Debug/net9.0/ReajusteSalarial.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ReajusteSalarial/obj/Debug/net9.0/ReajusteSalarial.dll
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ReajusteSalarial/obj/Debug/net9.0/refint/ReajusteSalarial.dll
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ReajusteSalarial/obj/Debug/net9.0/ReajusteSalarial.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ReajusteSalarial/obj/Debug/net9.0/ReajusteSalarial.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ReajusteSalarial/obj/Debug/net9.0/ref/ReajusteSalarial.dll

@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/SistemaReservas/bin/Debug/net9.0/SistemaReservas
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/SistemaReservas/bin/Debug/net9.0/SistemaReservas.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/SistemaReservas/bin/Debug/net9.0/SistemaReservas.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/SistemaReservas/bin/Debug/net9.0/SistemaReservas.dll
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/SistemaReservas/bin/Debug/net9.0/SistemaReservas.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/SistemaReservas/obj/Debug/net9.0/SistemaReservas.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/SistemaReservas/obj/Debug/net9.0/SistemaReservas.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/SistemaReservas/obj/Debug/net9.0/SistemaReservas.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/SistemaReservas/obj/Debug/net9.0/SistemaReservas.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/SistemaReservas/obj/Debug/net9.0/SistemaReservas.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/SistemaReservas/obj/Debug/net9.0/SistemaReservas.dll
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/SistemaReservas/obj/Debug/net9.0/refint/SistemaReservas.dll
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/SistemaReservas/obj/Debug/net9.0/SistemaReservas.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/SistemaReservas/obj/Debug/net9.0/SistemaReservas.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/SistemaReservas/obj/Debug/net9.0/ref/SistemaReservas.dll

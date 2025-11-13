@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleTarefas/bin/Debug/net9.0/ControleTarefas
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleTarefas/bin/Debug/net9.0/ControleTarefas.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleTarefas/bin/Debug/net9.0/ControleTarefas.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleTarefas/bin/Debug/net9.0/ControleTarefas.dll
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleTarefas/bin/Debug/net9.0/ControleTarefas.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleTarefas/obj/Debug/net9.0/ControleTarefas.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleTarefas/obj/Debug/net9.0/ControleTarefas.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleTarefas/obj/Debug/net9.0/ControleTarefas.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleTarefas/obj/Debug/net9.0/ControleTarefas.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleTarefas/obj/Debug/net9.0/ControleTarefas.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleTarefas/obj/Debug/net9.0/ControleTarefas.dll
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleTarefas/obj/Debug/net9.0/refint/ControleTarefas.dll
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleTarefas/obj/Debug/net9.0/ControleTarefas.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleTarefas/obj/Debug/net9.0/ControleTarefas.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleTarefas/obj/Debug/net9.0/ref/ControleTarefas.dll

@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleContatos/bin/Debug/net9.0/ControleContatos
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleContatos/bin/Debug/net9.0/ControleContatos.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleContatos/bin/Debug/net9.0/ControleContatos.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleContatos/bin/Debug/net9.0/ControleContatos.dll
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleContatos/bin/Debug/net9.0/ControleContatos.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleContatos/obj/Debug/net9.0/ControleContatos.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleContatos/obj/Debug/net9.0/ControleContatos.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleContatos/obj/Debug/net9.0/ControleContatos.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleContatos/obj/Debug/net9.0/ControleContatos.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleContatos/obj/Debug/net9.0/ControleContatos.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleContatos/obj/Debug/net9.0/ControleContatos.dll
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleContatos/obj/Debug/net9.0/refint/ControleContatos.dll
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleContatos/obj/Debug/net9.0/ControleContatos.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleContatos/obj/Debug/net9.0/ControleContatos.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleContatos/obj/Debug/net9.0/ref/ControleContatos.dll

@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleMatricula/bin/Debug/net9.0/ControleMatricula
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleMatricula/bin/Debug/net9.0/ControleMatricula.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleMatricula/bin/Debug/net9.0/ControleMatricula.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleMatricula/bin/Debug/net9.0/ControleMatricula.dll
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleMatricula/bin/Debug/net9.0/ControleMatricula.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleMatricula/obj/Debug/net9.0/ControleMatricula.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleMatricula/obj/Debug/net9.0/ControleMatricula.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleMatricula/obj/Debug/net9.0/ControleMatricula.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleMatricula/obj/Debug/net9.0/ControleMatricula.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleMatricula/obj/Debug/net9.0/ControleMatricula.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleMatricula/obj/Debug/net9.0/ControleMatricula.dll
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleMatricula/obj/Debug/net9.0/refint/ControleMatricula.dll
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleMatricula/obj/Debug/net9.0/ControleMatricula.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleMatricula/obj/Debug/net9.0/ControleMatricula.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ControleMatricula/obj/Debug/net9.0/ref/ControleMatricula.dll
