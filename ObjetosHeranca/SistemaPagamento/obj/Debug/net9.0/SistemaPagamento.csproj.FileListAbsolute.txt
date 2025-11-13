@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/SistemaPagamento/bin/Debug/net9.0/SistemaPagamento
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/SistemaPagamento/bin/Debug/net9.0/SistemaPagamento.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/SistemaPagamento/bin/Debug/net9.0/SistemaPagamento.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/SistemaPagamento/bin/Debug/net9.0/SistemaPagamento.dll
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/SistemaPagamento/bin/Debug/net9.0/SistemaPagamento.pdb
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/SistemaPagamento/obj/Debug/net9.0/SistemaPagamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/SistemaPagamento/obj/Debug/net9.0/SistemaPagamento.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/SistemaPagamento/obj/Debug/net9.0/SistemaPagamento.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/SistemaPagamento/obj/Debug/net9.0/SistemaPagamento.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/SistemaPagamento/obj/Debug/net9.0/SistemaPagamento.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/SistemaPagamento/obj/Debug/net9.0/SistemaPagamento.dll
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/SistemaPagamento/obj/Debug/net9.0/refint/SistemaPagamento.dll
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/SistemaPagamento/obj/Debug/net9.0/SistemaPagamento.pdb
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/SistemaPagamento/obj/Debug/net9.0/SistemaPagamento.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/SistemaPagamento/obj/Debug/net9.0/ref/SistemaPagamento.dll

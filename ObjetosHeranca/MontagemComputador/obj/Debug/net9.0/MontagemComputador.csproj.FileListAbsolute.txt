@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/MontagemComputador/bin/Debug/net9.0/MontagemComputador
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/MontagemComputador/bin/Debug/net9.0/MontagemComputador.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/MontagemComputador/bin/Debug/net9.0/MontagemComputador.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/MontagemComputador/bin/Debug/net9.0/MontagemComputador.dll
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/MontagemComputador/bin/Debug/net9.0/MontagemComputador.pdb
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/MontagemComputador/obj/Debug/net9.0/MontagemComputador.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/MontagemComputador/obj/Debug/net9.0/MontagemComputador.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/MontagemComputador/obj/Debug/net9.0/MontagemComputador.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/MontagemComputador/obj/Debug/net9.0/MontagemComputador.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/MontagemComputador/obj/Debug/net9.0/MontagemComputador.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/MontagemComputador/obj/Debug/net9.0/MontagemComputador.dll
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/MontagemComputador/obj/Debug/net9.0/refint/MontagemComputador.dll
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/MontagemComputador/obj/Debug/net9.0/MontagemComputador.pdb
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/MontagemComputador/obj/Debug/net9.0/MontagemComputador.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/MontagemComputador/obj/Debug/net9.0/ref/MontagemComputador.dll

@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/PlataformaCurso/bin/Debug/net9.0/PlataformaCurso
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/PlataformaCurso/bin/Debug/net9.0/PlataformaCurso.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/PlataformaCurso/bin/Debug/net9.0/PlataformaCurso.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/PlataformaCurso/bin/Debug/net9.0/PlataformaCurso.dll
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/PlataformaCurso/bin/Debug/net9.0/PlataformaCurso.pdb
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/PlataformaCurso/obj/Debug/net9.0/PlataformaCurso.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/PlataformaCurso/obj/Debug/net9.0/PlataformaCurso.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/PlataformaCurso/obj/Debug/net9.0/PlataformaCurso.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/PlataformaCurso/obj/Debug/net9.0/PlataformaCurso.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/PlataformaCurso/obj/Debug/net9.0/PlataformaCurso.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/PlataformaCurso/obj/Debug/net9.0/PlataformaCurso.dll
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/PlataformaCurso/obj/Debug/net9.0/refint/PlataformaCurso.dll
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/PlataformaCurso/obj/Debug/net9.0/PlataformaCurso.pdb
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/PlataformaCurso/obj/Debug/net9.0/PlataformaCurso.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/PlataformaCurso/obj/Debug/net9.0/ref/PlataformaCurso.dll

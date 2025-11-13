@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/DispositivosSensores/bin/Debug/net9.0/DispositivosSensores
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/DispositivosSensores/bin/Debug/net9.0/DispositivosSensores.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/DispositivosSensores/bin/Debug/net9.0/DispositivosSensores.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/DispositivosSensores/bin/Debug/net9.0/DispositivosSensores.dll
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/DispositivosSensores/bin/Debug/net9.0/DispositivosSensores.pdb
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/DispositivosSensores/obj/Debug/net9.0/DispositivosSensores.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/DispositivosSensores/obj/Debug/net9.0/DispositivosSensores.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/DispositivosSensores/obj/Debug/net9.0/DispositivosSensores.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/DispositivosSensores/obj/Debug/net9.0/DispositivosSensores.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/DispositivosSensores/obj/Debug/net9.0/DispositivosSensores.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/DispositivosSensores/obj/Debug/net9.0/DispositivosSensores.dll
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/DispositivosSensores/obj/Debug/net9.0/refint/DispositivosSensores.dll
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/DispositivosSensores/obj/Debug/net9.0/DispositivosSensores.pdb
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/DispositivosSensores/obj/Debug/net9.0/DispositivosSensores.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/DispositivosSensores/obj/Debug/net9.0/ref/DispositivosSensores.dll

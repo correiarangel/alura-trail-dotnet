@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/catalogaItens/bin/Debug/net9.0/catalogaItens
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/catalogaItens/bin/Debug/net9.0/catalogaItens.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/catalogaItens/bin/Debug/net9.0/catalogaItens.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/catalogaItens/bin/Debug/net9.0/catalogaItens.dll
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/catalogaItens/bin/Debug/net9.0/catalogaItens.pdb
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/catalogaItens/obj/Debug/net9.0/catalogaItens.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/catalogaItens/obj/Debug/net9.0/catalogaItens.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/catalogaItens/obj/Debug/net9.0/catalogaItens.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/catalogaItens/obj/Debug/net9.0/catalogaItens.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/catalogaItens/obj/Debug/net9.0/catalogaItens.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/catalogaItens/obj/Debug/net9.0/catalogaItens.dll
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/catalogaItens/obj/Debug/net9.0/refint/catalogaItens.dll
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/catalogaItens/obj/Debug/net9.0/catalogaItens.pdb
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/catalogaItens/obj/Debug/net9.0/catalogaItens.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/ObjetosHeranca/catalogaItens/obj/Debug/net9.0/ref/catalogaItens.dll
