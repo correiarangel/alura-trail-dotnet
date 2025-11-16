@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uzd2cFQOKzA=",
+  "dgSpecHash": "rcdeuchcn+c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\allreles\\git-dev\\alura\\String-regex\\RemoveEspacos\\RemoveEspacos.csproj",
+  "projectFilePath": "/home/rangel/git-dev/alura-trail-dotnet/String-regex/RemoveEspacos/RemoveEspacos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

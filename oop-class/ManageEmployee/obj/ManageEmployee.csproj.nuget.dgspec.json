@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/rangel/git-dev/alura-trail-dotnet/class/ManageEmployee/ManageEmployee.csproj": {}
+    "/home/rangel/git-dev/alura-trail-dotnet/oop-class/ManageEmployee/ManageEmployee.csproj": {}
   },
   "projects": {
-    "/home/rangel/git-dev/alura-trail-dotnet/class/ManageEmployee/ManageEmployee.csproj": {
+    "/home/rangel/git-dev/alura-trail-dotnet/oop-class/ManageEmployee/ManageEmployee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rangel/git-dev/alura-trail-dotnet/class/ManageEmployee/ManageEmployee.csproj",
+        "projectUniqueName": "/home/rangel/git-dev/alura-trail-dotnet/oop-class/ManageEmployee/ManageEmployee.csproj",
         "projectName": "ManageEmployee",
-        "projectPath": "/home/rangel/git-dev/alura-trail-dotnet/class/ManageEmployee/ManageEmployee.csproj",
+        "projectPath": "/home/rangel/git-dev/alura-trail-dotnet/oop-class/ManageEmployee/ManageEmployee.csproj",
         "packagesPath": "/home/rangel/.nuget/packages/",
-        "outputPath": "/home/rangel/git-dev/alura-trail-dotnet/class/ManageEmployee/obj/",
+        "outputPath": "/home/rangel/git-dev/alura-trail-dotnet/oop-class/ManageEmployee/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/rangel/.nuget/NuGet/NuGet.Config"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.110/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.111/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

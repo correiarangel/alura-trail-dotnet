@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/rangel/git-dev/alura-trail-dotnet/class/BankBomm/BankBomm.csproj",
+      "projectUniqueName": "/home/rangel/git-dev/alura-trail-dotnet/oop-class/BankBomm/BankBomm.csproj",
       "projectName": "BankBomm",
-      "projectPath": "/home/rangel/git-dev/alura-trail-dotnet/class/BankBomm/BankBomm.csproj",
+      "projectPath": "/home/rangel/git-dev/alura-trail-dotnet/oop-class/BankBomm/BankBomm.csproj",
       "packagesPath": "/home/rangel/.nuget/packages/",
-      "outputPath": "/home/rangel/git-dev/alura-trail-dotnet/class/BankBomm/obj/",
+      "outputPath": "/home/rangel/git-dev/alura-trail-dotnet/oop-class/BankBomm/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/rangel/.nuget/NuGet/NuGet.Config"
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.110/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.111/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

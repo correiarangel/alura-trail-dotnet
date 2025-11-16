@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/rangel/git-dev/alura-trail-dotnet/class/Retangulo/Retangulo.csproj": {}
+    "/home/rangel/git-dev/alura-trail-dotnet/oop-class/Retangulo/Retangulo.csproj": {}
   },
   "projects": {
-    "/home/rangel/git-dev/alura-trail-dotnet/class/Retangulo/Retangulo.csproj": {
+    "/home/rangel/git-dev/alura-trail-dotnet/oop-class/Retangulo/Retangulo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rangel/git-dev/alura-trail-dotnet/class/Retangulo/Retangulo.csproj",
+        "projectUniqueName": "/home/rangel/git-dev/alura-trail-dotnet/oop-class/Retangulo/Retangulo.csproj",
         "projectName": "Retangulo",
-        "projectPath": "/home/rangel/git-dev/alura-trail-dotnet/class/Retangulo/Retangulo.csproj",
+        "projectPath": "/home/rangel/git-dev/alura-trail-dotnet/oop-class/Retangulo/Retangulo.csproj",
         "packagesPath": "/home/rangel/.nuget/packages/",
-        "outputPath": "/home/rangel/git-dev/alura-trail-dotnet/class/Retangulo/obj/",
+        "outputPath": "/home/rangel/git-dev/alura-trail-dotnet/oop-class/Retangulo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/rangel/.nuget/NuGet/NuGet.Config"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.110/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.111/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
