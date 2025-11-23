@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/GaleriaMidia/bin/Debug/net9.0/GaleriaMidia
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/GaleriaMidia/bin/Debug/net9.0/GaleriaMidia.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/GaleriaMidia/bin/Debug/net9.0/GaleriaMidia.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/GaleriaMidia/bin/Debug/net9.0/GaleriaMidia.dll
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/GaleriaMidia/bin/Debug/net9.0/GaleriaMidia.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/GaleriaMidia/obj/Debug/net9.0/GaleriaMidia.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/GaleriaMidia/obj/Debug/net9.0/GaleriaMidia.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/GaleriaMidia/obj/Debug/net9.0/GaleriaMidia.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/GaleriaMidia/obj/Debug/net9.0/GaleriaMidia.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/GaleriaMidia/obj/Debug/net9.0/GaleriaMidia.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/GaleriaMidia/obj/Debug/net9.0/GaleriaMidia.dll
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/GaleriaMidia/obj/Debug/net9.0/refint/GaleriaMidia.dll
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/GaleriaMidia/obj/Debug/net9.0/GaleriaMidia.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/GaleriaMidia/obj/Debug/net9.0/GaleriaMidia.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/GaleriaMidia/obj/Debug/net9.0/ref/GaleriaMidia.dll

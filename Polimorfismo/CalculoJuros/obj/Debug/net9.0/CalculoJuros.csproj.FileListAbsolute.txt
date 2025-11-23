@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/CalculoJuros/bin/Debug/net9.0/CalculoJuros
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/CalculoJuros/bin/Debug/net9.0/CalculoJuros.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/CalculoJuros/bin/Debug/net9.0/CalculoJuros.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/CalculoJuros/bin/Debug/net9.0/CalculoJuros.dll
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/CalculoJuros/bin/Debug/net9.0/CalculoJuros.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/CalculoJuros/obj/Debug/net9.0/CalculoJuros.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/CalculoJuros/obj/Debug/net9.0/CalculoJuros.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/CalculoJuros/obj/Debug/net9.0/CalculoJuros.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/CalculoJuros/obj/Debug/net9.0/CalculoJuros.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/CalculoJuros/obj/Debug/net9.0/CalculoJuros.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/CalculoJuros/obj/Debug/net9.0/CalculoJuros.dll
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/CalculoJuros/obj/Debug/net9.0/refint/CalculoJuros.dll
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/CalculoJuros/obj/Debug/net9.0/CalculoJuros.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/CalculoJuros/obj/Debug/net9.0/CalculoJuros.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/CalculoJuros/obj/Debug/net9.0/ref/CalculoJuros.dll

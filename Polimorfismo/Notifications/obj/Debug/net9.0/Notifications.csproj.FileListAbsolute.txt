@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Notifications/bin/Debug/net9.0/Notifications
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Notifications/bin/Debug/net9.0/Notifications.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Notifications/bin/Debug/net9.0/Notifications.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Notifications/bin/Debug/net9.0/Notifications.dll
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Notifications/bin/Debug/net9.0/Notifications.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Notifications/obj/Debug/net9.0/Notifications.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Notifications/obj/Debug/net9.0/Notifications.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Notifications/obj/Debug/net9.0/Notifications.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Notifications/obj/Debug/net9.0/Notifications.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Notifications/obj/Debug/net9.0/Notifications.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Notifications/obj/Debug/net9.0/Notifications.dll
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Notifications/obj/Debug/net9.0/refint/Notifications.dll
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Notifications/obj/Debug/net9.0/Notifications.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Notifications/obj/Debug/net9.0/Notifications.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Notifications/obj/Debug/net9.0/ref/Notifications.dll

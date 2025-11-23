@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Tarefaz/obj/Debug/net9.0/Tarefaz.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Tarefaz/obj/Debug/net9.0/Tarefaz.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Tarefaz/obj/Debug/net9.0/Tarefaz.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Tarefaz/obj/Debug/net9.0/Tarefaz.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Tarefaz/obj/Debug/net9.0/Tarefaz.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Tarefaz/bin/Debug/net9.0/Tarefaz
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Tarefaz/bin/Debug/net9.0/Tarefaz.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Tarefaz/bin/Debug/net9.0/Tarefaz.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Tarefaz/bin/Debug/net9.0/Tarefaz.dll
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Tarefaz/bin/Debug/net9.0/Tarefaz.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Tarefaz/obj/Debug/net9.0/Tarefaz.dll
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Tarefaz/obj/Debug/net9.0/refint/Tarefaz.dll
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Tarefaz/obj/Debug/net9.0/Tarefaz.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Tarefaz/obj/Debug/net9.0/Tarefaz.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/Tarefaz/obj/Debug/net9.0/ref/Tarefaz.dll

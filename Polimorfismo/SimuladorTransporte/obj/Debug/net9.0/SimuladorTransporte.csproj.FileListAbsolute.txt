@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/SimuladorTransporte/bin/Debug/net9.0/SimuladorTransporte
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/SimuladorTransporte/bin/Debug/net9.0/SimuladorTransporte.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/SimuladorTransporte/bin/Debug/net9.0/SimuladorTransporte.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/SimuladorTransporte/bin/Debug/net9.0/SimuladorTransporte.dll
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/SimuladorTransporte/bin/Debug/net9.0/SimuladorTransporte.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/SimuladorTransporte/obj/Debug/net9.0/SimuladorTransporte.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/SimuladorTransporte/obj/Debug/net9.0/SimuladorTransporte.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/SimuladorTransporte/obj/Debug/net9.0/SimuladorTransporte.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/SimuladorTransporte/obj/Debug/net9.0/SimuladorTransporte.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/SimuladorTransporte/obj/Debug/net9.0/SimuladorTransporte.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/SimuladorTransporte/obj/Debug/net9.0/SimuladorTransporte.dll
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/SimuladorTransporte/obj/Debug/net9.0/refint/SimuladorTransporte.dll
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/SimuladorTransporte/obj/Debug/net9.0/SimuladorTransporte.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/SimuladorTransporte/obj/Debug/net9.0/SimuladorTransporte.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/SimuladorTransporte/obj/Debug/net9.0/ref/SimuladorTransporte.dll

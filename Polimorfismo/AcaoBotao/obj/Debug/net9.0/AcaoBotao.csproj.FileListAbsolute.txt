@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/AcaoBotao/bin/Debug/net9.0/AcaoBotao
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/AcaoBotao/bin/Debug/net9.0/AcaoBotao.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/AcaoBotao/bin/Debug/net9.0/AcaoBotao.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/AcaoBotao/bin/Debug/net9.0/AcaoBotao.dll
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/AcaoBotao/bin/Debug/net9.0/AcaoBotao.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/AcaoBotao/obj/Debug/net9.0/AcaoBotao.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/AcaoBotao/obj/Debug/net9.0/AcaoBotao.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/AcaoBotao/obj/Debug/net9.0/AcaoBotao.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/AcaoBotao/obj/Debug/net9.0/AcaoBotao.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/AcaoBotao/obj/Debug/net9.0/AcaoBotao.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/AcaoBotao/obj/Debug/net9.0/AcaoBotao.dll
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/AcaoBotao/obj/Debug/net9.0/refint/AcaoBotao.dll
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/AcaoBotao/obj/Debug/net9.0/AcaoBotao.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/AcaoBotao/obj/Debug/net9.0/AcaoBotao.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/Polimorfismo/AcaoBotao/obj/Debug/net9.0/ref/AcaoBotao.dll

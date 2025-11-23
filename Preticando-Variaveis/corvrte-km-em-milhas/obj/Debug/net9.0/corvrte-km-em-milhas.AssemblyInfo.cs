@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("corvrte-km-em-milhas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21406492c55c56d52b636d2efd3cfdd5b514fb79")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b9b73e621e9f2d152286d46011f0dd81e3fc425")]
 [assembly: System.Reflection.AssemblyProductAttribute("corvrte-km-em-milhas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("corvrte-km-em-milhas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
