@@ -61,7 +61,6 @@ Reforçar e aplicar os fundamentos do C#, aprendendo de forma prática a criar s
 
 ## 🚀 Próximos Passos
 
-- [ ] Concluir **Praticando C#: orientação a objetos com polimorfismo**
 - [ ] Iniciar estudos em **.NET avançado e APIs REST**
 - [ ] Desenvolver projetos práticos aplicando os conceitos aprendidos
 - [ ] Publicar exemplos de código no GitHub para portfólio
