@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrganizaString")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b9b73e621e9f2d152286d46011f0dd81e3fc425")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8caecd55b2da42110e09a3f655f08f0d04fce8e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrganizaString")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrganizaString")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

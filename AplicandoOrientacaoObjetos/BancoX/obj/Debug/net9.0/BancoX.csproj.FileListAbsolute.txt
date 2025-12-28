@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/BancoX/obj/Debug/net9.0/BancoX.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/BancoX/obj/Debug/net9.0/BancoX.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/BancoX/obj/Debug/net9.0/BancoX.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/BancoX/obj/Debug/net9.0/BancoX.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/BancoX/obj/Debug/net9.0/BancoX.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/BancoX/bin/Debug/net9.0/BancoX
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/BancoX/bin/Debug/net9.0/BancoX.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/BancoX/bin/Debug/net9.0/BancoX.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/BancoX/bin/Debug/net9.0/BancoX.dll
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/BancoX/bin/Debug/net9.0/BancoX.pdb
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/BancoX/obj/Debug/net9.0/BancoX.dll
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/BancoX/obj/Debug/net9.0/refint/BancoX.dll
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/BancoX/obj/Debug/net9.0/BancoX.pdb
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/BancoX/obj/Debug/net9.0/BancoX.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/BancoX/obj/Debug/net9.0/ref/BancoX.dll

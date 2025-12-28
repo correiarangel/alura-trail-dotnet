@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/RPlay/bin/Debug/net9.0/RPlay
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/RPlay/bin/Debug/net9.0/RPlay.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/RPlay/bin/Debug/net9.0/RPlay.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/RPlay/bin/Debug/net9.0/RPlay.dll
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/RPlay/bin/Debug/net9.0/RPlay.pdb
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/RPlay/obj/Debug/net9.0/RPlay.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/RPlay/obj/Debug/net9.0/RPlay.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/RPlay/obj/Debug/net9.0/RPlay.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/RPlay/obj/Debug/net9.0/RPlay.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/RPlay/obj/Debug/net9.0/RPlay.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/RPlay/obj/Debug/net9.0/RPlay.dll
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/RPlay/obj/Debug/net9.0/refint/RPlay.dll
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/RPlay/obj/Debug/net9.0/RPlay.pdb
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/RPlay/obj/Debug/net9.0/RPlay.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/RPlay/obj/Debug/net9.0/ref/RPlay.dll

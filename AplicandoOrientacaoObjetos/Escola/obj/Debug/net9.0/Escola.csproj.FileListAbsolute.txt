@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/Escola/bin/Debug/net9.0/Escola
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/Escola/bin/Debug/net9.0/Escola.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/Escola/bin/Debug/net9.0/Escola.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/Escola/bin/Debug/net9.0/Escola.dll
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/Escola/bin/Debug/net9.0/Escola.pdb
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/Escola/obj/Debug/net9.0/Escola.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/Escola/obj/Debug/net9.0/Escola.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/Escola/obj/Debug/net9.0/Escola.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/Escola/obj/Debug/net9.0/Escola.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/Escola/obj/Debug/net9.0/Escola.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/Escola/obj/Debug/net9.0/Escola.dll
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/Escola/obj/Debug/net9.0/refint/Escola.dll
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/Escola/obj/Debug/net9.0/Escola.pdb
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/Escola/obj/Debug/net9.0/Escola.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/AplicandoOrientacaoObjetos/Escola/obj/Debug/net9.0/ref/Escola.dll

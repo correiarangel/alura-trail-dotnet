@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/CriandoPrimeiroAplicativo/bin/Debug/net9.0/CriandoPrimeiroAplicativo
+/home/rangel/git-dev/alura-trail-dotnet/CriandoPrimeiroAplicativo/bin/Debug/net9.0/CriandoPrimeiroAplicativo.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/CriandoPrimeiroAplicativo/bin/Debug/net9.0/CriandoPrimeiroAplicativo.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/CriandoPrimeiroAplicativo/bin/Debug/net9.0/CriandoPrimeiroAplicativo.dll
+/home/rangel/git-dev/alura-trail-dotnet/CriandoPrimeiroAplicativo/bin/Debug/net9.0/CriandoPrimeiroAplicativo.pdb
+/home/rangel/git-dev/alura-trail-dotnet/CriandoPrimeiroAplicativo/obj/Debug/net9.0/CriandoPrimeiroAplicativo.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/CriandoPrimeiroAplicativo/obj/Debug/net9.0/CriandoPrimeiroAplicativo.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/CriandoPrimeiroAplicativo/obj/Debug/net9.0/CriandoPrimeiroAplicativo.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/CriandoPrimeiroAplicativo/obj/Debug/net9.0/CriandoPrimeiroAplicativo.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/CriandoPrimeiroAplicativo/obj/Debug/net9.0/CriandoPrimeiroAplicativo.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/CriandoPrimeiroAplicativo/obj/Debug/net9.0/CriandoPrimeiroAplicativo.dll
+/home/rangel/git-dev/alura-trail-dotnet/CriandoPrimeiroAplicativo/obj/Debug/net9.0/refint/CriandoPrimeiroAplicativo.dll
+/home/rangel/git-dev/alura-trail-dotnet/CriandoPrimeiroAplicativo/obj/Debug/net9.0/CriandoPrimeiroAplicativo.pdb
+/home/rangel/git-dev/alura-trail-dotnet/CriandoPrimeiroAplicativo/obj/Debug/net9.0/CriandoPrimeiroAplicativo.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/CriandoPrimeiroAplicativo/obj/Debug/net9.0/ref/CriandoPrimeiroAplicativo.dll
