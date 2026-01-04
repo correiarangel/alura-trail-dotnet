@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Lambda")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Geometric")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ccb0ccc173e03fed6c62fec435a96f0c829a341")]
-[assembly: System.Reflection.AssemblyProductAttribute("Lambda")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Lambda")]
+[assembly: System.Reflection.AssemblyProductAttribute("Geometric")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Geometric")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

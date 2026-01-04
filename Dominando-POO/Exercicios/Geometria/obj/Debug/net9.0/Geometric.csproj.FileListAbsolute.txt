@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/Dominando-POO/Exercicios/Geometria/bin/Debug/net9.0/Geometric
+/home/rangel/git-dev/alura-trail-dotnet/Dominando-POO/Exercicios/Geometria/bin/Debug/net9.0/Geometric.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/Dominando-POO/Exercicios/Geometria/bin/Debug/net9.0/Geometric.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/Dominando-POO/Exercicios/Geometria/bin/Debug/net9.0/Geometric.dll
+/home/rangel/git-dev/alura-trail-dotnet/Dominando-POO/Exercicios/Geometria/bin/Debug/net9.0/Geometric.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Dominando-POO/Exercicios/Geometria/obj/Debug/net9.0/Geometric.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/Dominando-POO/Exercicios/Geometria/obj/Debug/net9.0/Geometric.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Dominando-POO/Exercicios/Geometria/obj/Debug/net9.0/Geometric.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/Dominando-POO/Exercicios/Geometria/obj/Debug/net9.0/Geometric.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/Dominando-POO/Exercicios/Geometria/obj/Debug/net9.0/Geometric.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/Dominando-POO/Exercicios/Geometria/obj/Debug/net9.0/Geometric.dll
+/home/rangel/git-dev/alura-trail-dotnet/Dominando-POO/Exercicios/Geometria/obj/Debug/net9.0/refint/Geometric.dll
+/home/rangel/git-dev/alura-trail-dotnet/Dominando-POO/Exercicios/Geometria/obj/Debug/net9.0/Geometric.pdb
+/home/rangel/git-dev/alura-trail-dotnet/Dominando-POO/Exercicios/Geometria/obj/Debug/net9.0/Geometric.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/Dominando-POO/Exercicios/Geometria/obj/Debug/net9.0/ref/Geometric.dll
