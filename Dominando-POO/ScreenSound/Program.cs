@@ -2,6 +2,7 @@
 using ScreenSound.Menu;
 using ScreenSound.Models;
 
+
 Banda zeRamalo = new Banda("Zé Ramalho!");
 zeRamalo.AdicionarNota(new Avaliacao(10));
 zeRamalo.AdicionarNota(new Avaliacao(8));
@@ -16,7 +17,10 @@ bandasRegistradas.Add(belChior.Nome, belChior);
 
 
 Dictionary<int, Menu> opcoes = new();
-opcoes.Add(1, new RegistrarBanda());
+
+string apiKey = Environment.GetEnvironmentVariable("OPENAI_API_KEY") ?? throw new InvalidOperationException("OPENAI_API_KEY environment variable is not set.");
+IOpenAIClientService openAIClientService = new OpenAIClientService(apiKey);
+opcoes.Add(1, new RegistrarBanda(openAIClientService));
 opcoes.Add(2, new RegistrarAlbum());
 opcoes.Add(3, new MostrarBandasRegistradas());
 opcoes.Add(4, new ExibirDetalhe());

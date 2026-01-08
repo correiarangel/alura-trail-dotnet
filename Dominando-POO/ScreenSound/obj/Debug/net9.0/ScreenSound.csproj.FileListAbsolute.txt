@@ -13,3 +13,11 @@
 /home/rangel/git-dev/alura-trail-dotnet/Dominando-POO/ScreenSound/obj/Debug/net9.0/ScreenSound.pdb
 /home/rangel/git-dev/alura-trail-dotnet/Dominando-POO/ScreenSound/obj/Debug/net9.0/ScreenSound.genruntimeconfig.cache
 /home/rangel/git-dev/alura-trail-dotnet/Dominando-POO/ScreenSound/obj/Debug/net9.0/ref/ScreenSound.dll
+/home/rangel/git-dev/alura-trail-dotnet/Dominando-POO/ScreenSound/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/rangel/git-dev/alura-trail-dotnet/Dominando-POO/ScreenSound/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/rangel/git-dev/alura-trail-dotnet/Dominando-POO/ScreenSound/bin/Debug/net9.0/OpenAI.dll
+/home/rangel/git-dev/alura-trail-dotnet/Dominando-POO/ScreenSound/bin/Debug/net9.0/System.ClientModel.dll
+/home/rangel/git-dev/alura-trail-dotnet/Dominando-POO/ScreenSound/bin/Debug/net9.0/System.Memory.Data.dll
+/home/rangel/git-dev/alura-trail-dotnet/Dominando-POO/ScreenSound/bin/Debug/net9.0/System.Net.ServerSentEvents.dll
+/home/rangel/git-dev/alura-trail-dotnet/Dominando-POO/ScreenSound/obj/Debug/net9.0/ScreenSound.csproj.AssemblyReference.cache
+/home/rangel/git-dev/alura-trail-dotnet/Dominando-POO/ScreenSound/obj/Debug/net9.0/ScreenSo.4E60E543.Up2Date

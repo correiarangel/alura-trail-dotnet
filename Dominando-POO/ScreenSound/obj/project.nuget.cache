@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "/e2xOiflD/Q=",
+  "dgSpecHash": "8WrPH0YVteM=",
   "success": true,
   "projectFilePath": "/home/rangel/git-dev/alura-trail-dotnet/Dominando-POO/ScreenSound/ScreenSound.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/rangel/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/home/rangel/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.3/microsoft.extensions.logging.abstractions.8.0.3.nupkg.sha512",
+    "/home/rangel/.nuget/packages/openai/2.8.0/openai.2.8.0.nupkg.sha512",
+    "/home/rangel/.nuget/packages/system.clientmodel/1.8.1/system.clientmodel.1.8.1.nupkg.sha512",
+    "/home/rangel/.nuget/packages/system.memory.data/8.0.1/system.memory.data.8.0.1.nupkg.sha512",
+    "/home/rangel/.nuget/packages/system.net.serversentevents/9.0.9/system.net.serversentevents.9.0.9.nupkg.sha512"
+  ],
   "logs": []
 }

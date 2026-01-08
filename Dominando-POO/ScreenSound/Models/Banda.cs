@@ -5,6 +5,8 @@ internal class Banda(string nome)
     private List<Album> albuns = new List<Album>();
     private List<Avaliacao> notas = new List<Avaliacao>();
 
+    public string? Resumo {get;set;} = string.Empty;
+
     public string Nome { get; } = nome;
     public double Media
     {
@@ -17,7 +19,7 @@ internal class Banda(string nome)
             return notas.Average(n => n.Nota);
         }
     }
-    public List<Album> Albuns => albuns;
+    public IEnumerable<Album> Albuns => albuns;
 
     public void AdicionarAlbum(Album album)
     {

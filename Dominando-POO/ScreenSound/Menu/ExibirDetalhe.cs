@@ -13,10 +13,11 @@ class ExibirDetalhe : Menu
         {
             Banda banda = bandasRegistradas[nomeDaBanda];
             Console.WriteLine($"\nA média da banda {nomeDaBanda} é {banda.Media}.");
-            /**
-            * ESPAÇO RESERVADO PARA COMPLETAR A FUNÇÃO
-            */
-            Console.WriteLine("Digite uma tecla para votar ao menu principal");
+            if (!string.IsNullOrEmpty(banda.Resumo))
+            {
+                Console.WriteLine($"\nResumo da banda {banda.Nome}: {banda.Resumo}\n");
+            }
+            Console.WriteLine("Digite uma tecla para voltar ao menu principal");
             Console.ReadKey();
             Console.Clear();
 
