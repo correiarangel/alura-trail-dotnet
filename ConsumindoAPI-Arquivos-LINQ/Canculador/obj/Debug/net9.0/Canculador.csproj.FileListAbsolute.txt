@@ -1,0 +1,15 @@
+/home/rangel/git-dev/alura-trail-dotnet/ConsumindoAPI-Arquivos-LINQ/Canculador/bin/Debug/net9.0/Canculador
+/home/rangel/git-dev/alura-trail-dotnet/ConsumindoAPI-Arquivos-LINQ/Canculador/bin/Debug/net9.0/Canculador.deps.json
+/home/rangel/git-dev/alura-trail-dotnet/ConsumindoAPI-Arquivos-LINQ/Canculador/bin/Debug/net9.0/Canculador.runtimeconfig.json
+/home/rangel/git-dev/alura-trail-dotnet/ConsumindoAPI-Arquivos-LINQ/Canculador/bin/Debug/net9.0/Canculador.dll
+/home/rangel/git-dev/alura-trail-dotnet/ConsumindoAPI-Arquivos-LINQ/Canculador/bin/Debug/net9.0/Canculador.pdb
+/home/rangel/git-dev/alura-trail-dotnet/ConsumindoAPI-Arquivos-LINQ/Canculador/obj/Debug/net9.0/Canculador.GeneratedMSBuildEditorConfig.editorconfig
+/home/rangel/git-dev/alura-trail-dotnet/ConsumindoAPI-Arquivos-LINQ/Canculador/obj/Debug/net9.0/Canculador.AssemblyInfoInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/ConsumindoAPI-Arquivos-LINQ/Canculador/obj/Debug/net9.0/Canculador.AssemblyInfo.cs
+/home/rangel/git-dev/alura-trail-dotnet/ConsumindoAPI-Arquivos-LINQ/Canculador/obj/Debug/net9.0/Canculador.csproj.CoreCompileInputs.cache
+/home/rangel/git-dev/alura-trail-dotnet/ConsumindoAPI-Arquivos-LINQ/Canculador/obj/Debug/net9.0/Canculador.sourcelink.json
+/home/rangel/git-dev/alura-trail-dotnet/ConsumindoAPI-Arquivos-LINQ/Canculador/obj/Debug/net9.0/Canculador.dll
+/home/rangel/git-dev/alura-trail-dotnet/ConsumindoAPI-Arquivos-LINQ/Canculador/obj/Debug/net9.0/refint/Canculador.dll
+/home/rangel/git-dev/alura-trail-dotnet/ConsumindoAPI-Arquivos-LINQ/Canculador/obj/Debug/net9.0/Canculador.pdb
+/home/rangel/git-dev/alura-trail-dotnet/ConsumindoAPI-Arquivos-LINQ/Canculador/obj/Debug/net9.0/Canculador.genruntimeconfig.cache
+/home/rangel/git-dev/alura-trail-dotnet/ConsumindoAPI-Arquivos-LINQ/Canculador/obj/Debug/net9.0/ref/Canculador.dll
