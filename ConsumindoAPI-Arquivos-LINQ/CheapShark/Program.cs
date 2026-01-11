@@ -1,17 +1,74 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System.Reflection.Metadata;
+using CheapShark.Constant;
+using CheapShark.Domain.interfaces;
+using CheapShark.Domain.Models;
 using CheapShark.Service.HttpClientService;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using Microsoft.VisualBasic;
 
 Console.WriteLine("\nConsumindo API CheapShark.........\n");
 
 
 
 //GET
+
+
+
+Console.WriteLine("Digite o Id para buscar:");
+var input = Console.ReadLine();
+
+if (!int.TryParse(input, out int characterId))
+{
+    Console.WriteLine("Id inválido.");
+    return;
+}
+
+var serviceCollection = new ServiceCollection();
+serviceCollection.AddLogging(configure => configure.AddConsole());
+serviceCollection.AddHttpClientService(ConstantsString.URL_CHARACTERS);
+
+var serviceProvider = serviceCollection.BuildServiceProvider();
+var httpClientService = serviceProvider.GetRequiredService<IHttpClientService>();
+
+var character = await httpClientService.GetAsync<Character>(characterId.ToString());
+
+if (character != null)
+{
+    character.ExibirNoConsole();
+}
+else
+{
+    Console.WriteLine("Personagem não encontrado.");
+}
+
+
+
+/*
 var serviceCollection = new ServiceCollection();
 _ = serviceCollection.AddLogging(configure => configure.AddConsole());
-_ = serviceCollection.AddHttpClientService("https://www.cheapshark.com/api/1.0/deals");  
+_ = serviceCollection.AddHttpClientService(ConstantsString.URL_MOVIES);  
 var serviceProvider = serviceCollection.BuildServiceProvider(); 
+
+var httpClientService = serviceProvider.GetRequiredService<IHttpClientService>();
+var movies = await httpClientService.GetAsync<List<Movie>>("TopMovies.json");
+
+if (movies != null)
+{
+    Console.WriteLine($"///////// {movies.Count} Fime(s)");
+    foreach (var movie in movies)
+    {
+        movie.ExibirNoConsole();
+    }
+  
+}
+else
+{
+    Console.WriteLine("Nenhum dado retornado da API.");
+}
+*/
+/*
 var httpClientService = serviceProvider.GetRequiredService<CheapShark.Domain.interfaces.IHttpClientService>();
 var deals = await httpClientService.GetAsync<List<CheapShark.Domain.Models.GameDeal>>("deals");
 if (deals != null)
@@ -26,9 +83,7 @@ else
 {
     Console.WriteLine("Nenhum dado retornado da API.");
 }
-    
-
-
+  */
 
 
 
