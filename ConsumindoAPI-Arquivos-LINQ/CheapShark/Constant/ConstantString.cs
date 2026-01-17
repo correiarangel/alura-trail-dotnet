@@ -13,5 +13,8 @@ namespace CheapShark.Constant
         public const string URL_MOVIES = "https://raw.githubusercontent.com/ArthurOcFernandes/Exerc-cios-C-/curso-4-aula-2/Jsons/TopMovies.json";
         
         public const string URL_CHARACTERS =  "https://www.anapioficeandfire.com/api/characters/";
+
+        public const string URL_MUSIC = "https://guilhermeonrails.github.io/api-csharp-songs/songs.json";
     }
 }
+

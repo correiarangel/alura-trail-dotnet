@@ -1,0 +1,52 @@
+@page "/gerar-pessoa-json"
+@using System.Text.Json
+@using BlazorJsonPwa.Domain
+@inject IJSRuntime JS
+
+<PageTitle>Gerar Pessoa JSON</PageTitle>
+
+<h3>Gerar JSON - Pessoa</h3>
+
+<div class="mb-3">
+    <input class="form-control" placeholder="Nome" @bind="nome" />
+</div>
+
+<div class="mb-3">
+    <input class="form-control" type="number" placeholder="Idade" @bind="idade" />
+</div>
+
+<div class="mb-3">
+    <input class="form-control" placeholder="Email" @bind="email" />
+</div>
+
+<button class="btn btn-primary" @onclick="Gerar">
+    Gerar Arquivo JSON
+</button>
+
+@code {
+    string nome = string.Empty;
+    int idade;
+    string email = string.Empty;
+
+    async Task Gerar()
+    {
+        var pessoa = new Pessoa
+        {
+            Nome = nome,
+            Idade = idade,
+            Email = email
+        };
+
+        var json = JsonSerializer.Serialize(pessoa, new JsonSerializerOptions
+        {
+            WriteIndented = true
+        });
+
+        var arquivo = $"pessoa-{nome}.json";
+
+        await JS.InvokeVoidAsync("downloadFile", arquivo, json);
+
+        nome = email = string.Empty;
+        idade = 0;
+    }
+}

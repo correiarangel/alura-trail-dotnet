@@ -1,0 +1,71 @@
+@page "/ler-json"
+@using System.Text.Json
+@using BlazorJsonPwa.Domain
+@using Microsoft.AspNetCore.Components.Forms
+
+<PageTitle>Ler JSON</PageTitle>
+
+<h3>Ler Arquivo JSON</h3>
+
+<InputFile OnChange="CarregarArquivo" accept=".json" />
+
+@if (erro is not null)
+{
+    <p class="text-danger mt-3">@erro</p>
+}
+
+@if (pessoa is not null)
+{
+    <hr />
+    <h5>Pessoa</h5>
+    <p><b>Nome:</b> @pessoa.Nome</p>
+    <p><b>Idade:</b> @pessoa.Idade</p>
+    <p><b>Email:</b> @pessoa.Email</p>
+}
+
+@if (pessoas?.Any() == true)
+{
+    <hr />
+    <h5>Lista de Pessoas</h5>
+    <ul>
+        @foreach (var p in pessoas)
+        {
+            <li>@p.Nome - @p.Idade - @p.Email</li>
+        }
+    </ul>
+}
+
+@code {
+    Pessoa? pessoa;
+    List<Pessoa>? pessoas;
+    string? erro;
+
+    async Task CarregarArquivo(InputFileChangeEventArgs e)
+    {
+        erro = null;
+        pessoa = null;
+        pessoas = null;
+
+        try
+        {
+            var file = e.File;
+
+            using var stream = file.OpenReadStream(5_000_000);
+            using var reader = new StreamReader(stream);
+            var json = await reader.ReadToEndAsync();
+
+            try
+            {
+                pessoas = JsonSerializer.Deserialize<List<Pessoa>>(json);
+                if (pessoas != null) return;
+            }
+            catch { }
+
+            pessoa = JsonSerializer.Deserialize<Pessoa>(json);
+        }
+        catch (Exception ex)
+        {
+            erro = ex.Message;
+        }
+    }
+}

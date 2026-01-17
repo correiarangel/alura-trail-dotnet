@@ -1,0 +1,72 @@
+@page "/gerar-lista-json"
+@using System.Text.Json
+@using BlazorJsonPwa.Domain
+@inject IJSRuntime JS
+
+<PageTitle>Gerar Lista JSON</PageTitle>
+
+<h3>Gerar JSON - Lista de Pessoas</h3>
+
+<div class="row g-2 mb-3">
+    <div class="col">
+        <input class="form-control" placeholder="Nome" @bind="nome" />
+    </div>
+    <div class="col">
+        <input class="form-control" type="number" placeholder="Idade" @bind="idade" />
+    </div>
+    <div class="col">
+        <input class="form-control" placeholder="Email" @bind="email" />
+    </div>
+</div>
+
+<button class="btn btn-secondary me-2" @onclick="Adicionar">
+    Adicionar
+</button>
+
+<button class="btn btn-primary" @onclick="GerarArquivo" disabled="@(!pessoas.Any())">
+    Gerar JSON
+</button>
+
+@if (pessoas.Any())
+{
+    <hr />
+    <ul>
+        @foreach (var p in pessoas)
+        {
+            <li>@p.Nome - @p.Idade - @p.Email</li>
+        }
+    </ul>
+}
+
+@code {
+    List<Pessoa> pessoas = new();
+
+    string nome = string.Empty;
+    int idade;
+    string email = string.Empty;
+
+    void Adicionar()
+    {
+        pessoas.Add(new Pessoa
+        {
+            Nome = nome,
+            Idade = idade,
+            Email = email
+        });
+
+        nome = email = string.Empty;
+        idade = 0;
+    }
+
+    async Task GerarArquivo()
+    {
+        var json = JsonSerializer.Serialize(pessoas, new JsonSerializerOptions
+        {
+            WriteIndented = true
+        });
+
+        await JS.InvokeVoidAsync("downloadFile", "pessoas.json", json);
+
+        pessoas.Clear();
+    }
+}

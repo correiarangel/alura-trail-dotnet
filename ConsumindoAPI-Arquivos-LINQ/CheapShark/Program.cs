@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Reflection.Metadata;
 using CheapShark.Constant;
+using CheapShark.Domain.Filter;
 using CheapShark.Domain.interfaces;
 using CheapShark.Domain.Models;
 using CheapShark.Service.HttpClientService;
@@ -14,8 +15,40 @@ Console.WriteLine("\nConsumindo API CheapShark.........\n");
 
 //GET
 
+var serviceCollection = new ServiceCollection();
+_ = serviceCollection.AddLogging(configure => configure.AddConsole());
+_ = serviceCollection.AddHttpClientService(ConstantsString.URL_MUSIC);  
+var serviceProvider = serviceCollection.BuildServiceProvider(); 
+
+var httpClientService = serviceProvider.GetRequiredService<IHttpClientService>();
+var musics = await httpClientService.GetAsync<List<Musica>>("songs.json");
+
+if (musics != null)
+{
 
 
+var musicasFavoritasDoGuilherme = new MusicasFavoritas("Guilherme");
+musicasFavoritasDoGuilherme.AdicionarMusicaFavorita(musics[980]);
+musicasFavoritasDoGuilherme.AdicionarMusicaFavorita(musics[513]);
+musicasFavoritasDoGuilherme.AdicionarMusicaFavorita(musics[1024]);
+musicasFavoritasDoGuilherme.AdicionarMusicaFavorita(musics[999]);
+musicasFavoritasDoGuilherme.AdicionarMusicaFavorita(musics[37]);
+
+musicasFavoritasDoGuilherme.GerarDocumentoTXTComAsMusicasFavoritas();
+
+musicasFavoritasDoGuilherme.GerarArquivoJon();
+
+    Console.WriteLine($"///////// {musics.Count} Musica(s)");
+    //LingFilter.FilterAllGenerisMusicsArtist(musics,"U2");  
+    LingFilter.FilterAllGenerisMusicsArtist(musics,2020);  
+}
+else
+{
+    Console.WriteLine("Nenhum dado retornado da API.");
+}
+
+
+/*
 Console.WriteLine("Digite o Id para buscar:");
 var input = Console.ReadLine();
 
@@ -42,7 +75,7 @@ else
 {
     Console.WriteLine("Personagem não encontrado.");
 }
-
+*/
 
 
 /*
