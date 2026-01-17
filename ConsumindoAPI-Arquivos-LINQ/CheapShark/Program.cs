@@ -11,8 +11,6 @@ using Microsoft.VisualBasic;
 
 Console.WriteLine("\nConsumindo API CheapShark.........\n");
 
-
-
 //GET
 
 var serviceCollection = new ServiceCollection();
@@ -25,8 +23,10 @@ var musics = await httpClientService.GetAsync<List<Musica>>("songs.json");
 
 if (musics != null)
 {
+    LingFilter.FiltrarMusicasEmCSharp(musics,key:"F#");  
+}
 
-
+/*
 var musicasFavoritasDoGuilherme = new MusicasFavoritas("Guilherme");
 musicasFavoritasDoGuilherme.AdicionarMusicaFavorita(musics[980]);
 musicasFavoritasDoGuilherme.AdicionarMusicaFavorita(musics[513]);
@@ -46,7 +46,7 @@ else
 {
     Console.WriteLine("Nenhum dado retornado da API.");
 }
-
+*/
 
 /*
 Console.WriteLine("Digite o Id para buscar:");

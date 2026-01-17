@@ -55,4 +55,19 @@ internal class LingFilter
         }
     }
 
+    internal static void FiltrarMusicasEmCSharp(List<Musica> musicas, string key)
+    {
+        var musicasEmCSharp = musicas
+            .Where(musica => musica.Tonalidade.Equals(key))
+            .Select(musica => musica.Nome)
+            .ToList();
+
+        Console.WriteLine($"\nMúsicas em {key}:");
+        foreach (var musica in musicasEmCSharp)
+        {
+            Console.WriteLine($"- {musica}");
+        }
+        Console.WriteLine($"Fim Músicas em {key} \n");
+    }
+
 }

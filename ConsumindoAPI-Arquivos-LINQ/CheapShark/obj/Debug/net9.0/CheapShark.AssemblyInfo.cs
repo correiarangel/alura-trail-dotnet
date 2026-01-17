@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CheapShark")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+282a9fa769cc270153f40bae1f6d6b6d6e78bc12")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00e848115251c596bff969066644129fa64e2b9c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CheapShark")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CheapShark")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

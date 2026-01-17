@@ -1,0 +1,329 @@
+https://cursos.alura.com.br/user/marcosrangel
+
+
+
+
+Cursos concluídos
+A-Z
+Z-A
+Data de início
+Data de finalização
+
+C#: aplicando a Orientação a Objetos
+Certificado
+Adicionar ao perfil
+Alura
+
+C#: consumindo API, gravando arquivos e utilizando o LINQ
+Certificado
+Adicionar ao perfil
+Alura
+
+C#: criando sua primeira aplicação
+Certificado
+Adicionar ao perfil
+Alura
+
+C#: dominando Orientação a Objetos
+Certificado
+Adicionar ao perfil
+Alura
+
+Praticando C#: coleções
+Certificado
+Adicionar ao perfil
+Alura
+
+Praticando C#: condicionais com if/else e switch/case
+Certificado
+Adicionar ao perfil
+Alura
+
+Praticando C#: laços de repetição
+Certificado
+Adicionar ao perfil
+Alura
+
+Praticando C#: orientação a objetos com classes
+Certificado
+Adicionar ao perfil
+Alura
+
+Praticando C#: orientação a objetos com encapsulamento
+Certificado
+Adicionar ao perfil
+Alura
+
+Praticando C#: orientação a objetos com herança
+Certificado
+Adicionar ao perfil
+Alura
+
+Praticando C#: orientação a objetos com polimorfismo
+Certificado
+Adicionar ao perfil
+Alura
+
+Praticando C#: Strings e Regex
+Certificado
+Adicionar ao perfil
+Alura
+
+Praticando C#: variáveis e tipos
+Certificado
+Adicionar ao p
+
+Carreira Ativa!
+Desenvolvimento Back-End .NET
+Sua Carreira em desenvolvimento back-end .NET, do pensamento computacional à arquitetura de alto nível!
+
+Sair da Carreira
+
+Base - Pensamento Computacional e primeiros passos no C#
+arrow
+O que você vai aprender no Nível 1?
+Neste nível, você vai compreender os conceitos essenciais de lógica de programação e dar seus primeiros passos no universo do C#, conhecer a história da linguagem e a sua relação com o .NET, além de compreender como tudo funciona por baixo dos panos. Vai aprender sobre variáveis, tipos de dados, operadores, estruturas condicionais e de repetição, além de funções e boas práticas iniciais. Também vai conhecer como funciona a estrutura de um programa em C#, desde a criação do projeto até a execução do seu primeiro código. Essa base será o alicerce para avançar com segurança nos próximos estágios do desenvolvimento backend.
+
+01
+Carreira .NET: Boas-vindas e primeiros passos
+
+02
+Pensamento computacional: fundamentos da computação e lógica de programação
+
+03
+C#: criando sua primeira aplicação
+
+CONCLUÍDO!
+04
+Praticando C#: variáveis e tipos
+
+CONCLUÍDO!
+05
+Praticando C#: condicionais com if/else e switch/case
+
+CONCLUÍDO!
+06
+Praticando C#: laços de repetição
+
+CONCLUÍDO!
+
+NÍVEL 1 - Orientação a objetos, dados e web
+arrow
+O que você vai aprender no Nível 1?
+Voltado para quem já deu os primeiros passos em programação, este nível começa aprofundando C# com orientação a objetos, coleções, manipulação de dados, arquivos, LINQ e até a criação de bibliotecas. Depois, você aprende a usar Git e GitHub para colaborar, entende redes e HTTP, faz uma breve incursão por HTML e CSS para então entrar no desenvolvimento web com ASP.NET Core: criando APIs, relacionando entidades, aplicando autenticação, autorização e persistência em bancos relacionais e NoSQL. Para completar, você ainda constrói interfaces com Blazor, conhece aplicações de IA e explora metodologias ágeis de desenvolvimento, preparando-se para desenvolver sistemas modernos, colaborativos e conectados.
+
+
+01
+C#: aplicando a Orientação a Objetos
+
+CONCLUÍDO!
+02
+Praticando C#: orientação a objetos com classes
+
+CONCLUÍDO!
+03
+C#: dominando Orientação a Objetos
+
+CONCLUÍDO!
+04
+Praticando C#: orientação a objetos com herança
+
+CONCLUÍDO!
+05
+Praticando C#: orientação a objetos com encapsulamento
+
+CONCLUÍDO!
+06
+Praticando C#: orientação a objetos com polimorfismo
+
+CONCLUÍDO!
+07
+C#: consumindo API, gravando arquivos e utilizando o LINQ
+
+CONCLUÍDO!
+08
+Git e GitHub: compartilhando e colaborando em projetos
+
+09
+C#: trabalhando com arquivos
+
+10
+C#: Manipulação de dados com coleções e LINQ
+
+11
+Praticando C#: coleções
+
+CONCLUÍDO!
+12
+Praticando C#: Strings e Regex
+
+CONCLUÍDO!
+13
+C#: desenvolvimento e gerenciamento de bibliotecas
+
+14
+HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags
+
+15
+HTML e CSS: Classes, posicionamento e Flexbox
+
+16
+HTML e CSS: cabeçalho, footer e variáveis CSS
+
+17
+HTML e CSS: trabalhando com responsividade e publicação de projetos
+
+18
+Redes e Protocolos: fundamentos da web
+
+19
+.NET 6: criando uma web API
+
+20
+.NET 6: relacionando entidades
+
+21
+.NET 6 e Identity: implementando controle de usuário
+
+22
+ASP.NET: autenticação e autorização em APIs e aplicações web
+
+23
+Swagger: documentando suas APIs
+
+24
+.NET: desenvolvendo aplicações web modernas com Blazor
+
+25
+.NET: persistência de dados com MongoDB
+
+26
+Metodologias Ágeis e DevOps: desenvolvendo software com qualidade, colaboração e eficiência
+
+27
+Masterclass IA: impulsionando sua carreira
+
+28 - CHECKPOINT
+Checkpoint do Nível 1 da Carreira Desenvolvedor(a) Backend .NET
+
+
+Nível 2 - Performance, testes e arquitetura avançada
+arrow
+O que você vai aprender no Nível 2?
+Voltado para quem já domina os fundamentos de C#, este nível foca em performance, programação assíncrona, LINQ avançado e boas práticas como SOLID, refatoração e padrões de projeto. Você também vai aplicar testes em diferentes níveis, explorar arquitetura limpa e DDD, usar Docker para containerizar seu sistema e garantir segurança em aplicações ASP.NET Core, além de automatizar o deploy da sua aplicação num pipeline de CI/CD, preparando-se para atuar como pessoa desenvolvedora backend profissional.
+
+01
+.NET: gerenciamento de memória para otimização de performance
+
+02
+C# Reflection: manipule dinamicamente tipos e assemblies
+
+03
+C# e Exceções: construa aplicações resilientes
+
+04
+C# Async: aplique recursos de programação assíncrona em seu projetos
+
+05
+C#: Eventos, Delegates e Lambdas
+
+06
+Docker: criando e gerenciando containers
+
+07
+Integração Contínua: Pipeline Docker no Github Actions
+
+08
+Qualidade de Software: escrevendo testes de maneira eficiente
+
+09
+Selenium WebDriver e C# parte 1: testes da sua web app
+
+10
+Selenium WebDriver e C# parte 2: outros recursos
+
+11
+Testes em .NET: integre seus testes nos pipelines de CI/CD
+
+12
+C#: Boas práticas de código e projeto
+
+13
+C#: aplique boas práticas de refatoração e torne seu código mais legível
+
+14
+C#: aplique princípios SOLID e padrões de projeto
+
+15
+Arquitetura .NET: descomplicando a Clean Architecture
+
+16
+Arquitetura .NET: modelando aplicações com Domain-Driven Design Estratégico
+
+17
+Arquitetura .NET: modelando aplicações com Domain-Driven Design Tático
+
+18
+Arquitetura em .NET: criando uma arquitetura de sistemas no Azure
+
+19
+Segurança com ASP.NET Core: proteja aplicações Web
+
+20
+[EM BREVE] Segurança com ASP.NET Core: proteja suas Web APIs
+
+21
+Segurança com ASP.NET Core: coordene aplicações e centralize a segurança
+
+22 - CHECKPOINT
+Checkpoint do Nível 2 da Carreira Desenvolvedor(a) Backend .NET
+
+
+Nível 3 - Microsserviços, nuvem e liderança técnica
+arrow
+O que você vai aprender no Nível 3?
+Este conteúdo está em construção, mas confira a prévia do que está por vir:
+
+Voltado para profissionais que já dominam C# e arquiteturas avançadas em .NET, este nível aprofunda o desenvolvimento de soluções distribuídas e escaláveis. Você vai aprender a projetar e implementar microsserviços, integrar aplicações ao Azure, aplicar práticas de observabilidade e monitoramento, além de fortalecer estratégias de segurança em ambientes corporativos. O foco é preparar você para atuar como referência técnica, liderar equipes de desenvolvimento e tomar decisões arquiteturais que impactam diretamente os resultados do negócio.
+
+01
+Fundamentos da Arquitetura de Software Moderna
+
+02
+Padrões de Integração em Sistemas Distribuídos
+
+03
+Arquitetura distribuída e escalável com .NET: do monolito ao Kubernetes
+
+04
+.NET: Soluções em nuvem com Azure na prática
+
+05
+Microsserviços: explorando os conceitos
+
+06
+Microsserviços na prática: entendendo a tomada de decisões
+
+07
+Kubernetes: Pods, Services e ConfigMaps
+
+08
+Kubernetes: Deployments, Volumes e Escalabilidade
+
+09
+Microsserviços e .NET6: implementando a comunicação
+
+10
+Microsserviços e .NET6: deploy na AWS
+
+11
+Profissão Tech Lead: conhecendo a liderança técnica
+
+12
+Tech Lead: construindo práticas e rotinas de gestão
+
+13
+Tech Lead: gerindo pessoas e guiando para alta performance
+
+14
+Tech Lead: desenvolvendo habilidades de comunicação
