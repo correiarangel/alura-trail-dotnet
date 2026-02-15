@@ -30,7 +30,7 @@ public class Arquivo(string nome, string pathArq, string content)
 
     public void LerArquivoStreamReader()
     {
-        
+
         using (var fluxoDeArquivo = new FileStream(_PathArq, FileMode.Open))
         {
             var leitor = new StreamReader(fluxoDeArquivo);
@@ -40,7 +40,7 @@ public class Arquivo(string nome, string pathArq, string content)
             var arquivo = new Arquivo("dbByteBank.txt", _PathArq, "Contas do ByteBank");
             while (!leitor.EndOfStream)
             {
-                var linha = leitor.ReadLine()??"";
+                var linha = leitor.ReadLine() ?? "";
                 //Console.WriteLine(linha);
                 ConvertStringToContaCorrente(linha);
             }
@@ -96,10 +96,111 @@ public class Arquivo(string nome, string pathArq, string content)
 
         int agenciaInt = int.Parse(agencia);
         int numeroContaInt = int.Parse(numeroConta);
-        decimal saldoDecimal = decimal.Parse(saldo);    
+        decimal saldoDecimal = decimal.Parse(saldo);
 
 
         var contaCorrente = new ContaCorrente(saldoDecimal, numeroContaInt, agenciaInt, titular.TitularNome);
         contaCorrente.ExibirSaldo();
     }
+
+    public void TesteTimeForWrite()
+    {
+        var path = $"{_PathArq}";
+
+        using (var fluxoDeArquivo = new FileStream(path, FileMode.Create))
+        using (var write = new StreamWriter(fluxoDeArquivo))
+        {
+            for (int i = 0; i < 9999; i++)
+            {
+                write.WriteLine($"Line: {i}");
+                write.Flush();
+                Console.WriteLine($"Line: {i} Maecos Rangel Você vai ser um escelente programador C#");
+
+            }
+            Console.WriteLine($"Escrita completa!");
+        }
+    }
+
+    public void BinaryForRead()
+    {
+        using (var fs = new FileStream(_PathArq, FileMode.Create))
+        using (var write = new BinaryWriter(fs))
+        {
+            write.Write(3256);
+            write.Write(234365);
+            write.Write(4000.50);
+            write.Write("Dick Vigarista");
+
+            Console.WriteLine($"Escrita completa!");
+        }
+    }
+
+    public void BinaryForWrite()
+    {
+        using (var fs = new FileStream(_PathArq, FileMode.Open))
+        using (var write = new BinaryReader(fs))
+        {
+            var agencia = write.ReadInt32();
+            var numeroConta = write.ReadInt32();
+            var saldo = write.ReadDouble();
+            var titular = write.ReadString();
+
+            Console.WriteLine($"Agencia: {agencia}");
+            Console.WriteLine($"Numero Conta: {numeroConta}");
+            Console.WriteLine($"Saldo: {saldo}");
+            Console.WriteLine($"Titular: {titular}");
+        }
+    }
+
+    public void InputBinaryForRead()
+    {
+        using (var fs = Console.OpenStandardInput())
+        using (var _fs = new FileStream(_PathArq, FileMode.Create))
+        {
+            var buffer = new byte[1024];
+
+            while (true)
+            {
+                var byteWrite = fs.Read(buffer, 0, 1024);
+                _fs.Write(buffer, 0, byteWrite);
+                _fs.Flush();
+
+                Console.WriteLine($"Byte lidos ! {buffer.Length}");
+            }
+        }
+    }
+
+    public void ReadFile()
+    {
+
+        var linhas = File.ReadAllLines(_PathArq);
+        Console.WriteLine($"//////////////// linhas.Length: {linhas.Length}");
+        /*
+            foreach (var linha in linhas)
+            {
+                Console.WriteLine(linha);
+            }*/
+
+        var bytesArquivo = File.ReadAllBytes(_PathArq);
+        Console.WriteLine($"{_PathArq} possui {bytesArquivo.Length} bytes");
+        Console.WriteLine("Fala ai ooo ...");
+        var input = Console.ReadLine() ?? string.Empty;
+        File.WriteAllText(_PathArq, input);
+
+        Console.WriteLine("Aplicação Finalizada ...");
+
+        Console.ReadLine();
+
+        /*
+        File.WriteAllText("escrevendoComAClasseFile.txt", "Testando File.WriteAllText");
+        Console.WriteLine("Arquivo escrevendoComAClasseFile.txt criado!");
+
+        var bytesArquivo = File.ReadAllBytes("contas.txt");
+        Console.WriteLine($"Arquivo contas.txt possui {bytesArquivo.Length} bytes");
+
+        var linhas = File.ReadAllLines("contas.txt");
+        Console.WriteLine(linhas.Length);
+        */
+    }
+
 }

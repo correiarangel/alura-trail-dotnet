@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pJKE0avPqDs=",
+  "dgSpecHash": "DXmgXjgk0o0=",
   "success": true,
   "projectFilePath": "/home/rangel/git-dev/alura-trail-dotnet/ConsumindoAPI-Arquivos-LINQ/FileManege/FileManege.csproj",
   "expectedPackageFiles": [
@@ -28,9 +28,9 @@
     "/home/rangel/.nuget/packages/microsoft.extensions.primitives/9.0.11/microsoft.extensions.primitives.9.0.11.nupkg.sha512",
     "/home/rangel/.nuget/packages/microsoft.jsinterop/9.0.11/microsoft.jsinterop.9.0.11.nupkg.sha512",
     "/home/rangel/.nuget/packages/microsoft.jsinterop.webassembly/9.0.11/microsoft.jsinterop.webassembly.9.0.11.nupkg.sha512",
-    "/home/rangel/.nuget/packages/microsoft.net.illink.tasks/9.0.11/microsoft.net.illink.tasks.9.0.11.nupkg.sha512",
-    "/home/rangel/.nuget/packages/microsoft.net.sdk.webassembly.pack/9.0.11/microsoft.net.sdk.webassembly.pack.9.0.11.nupkg.sha512",
-    "/home/rangel/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/9.0.11/microsoft.netcore.app.runtime.mono.browser-wasm.9.0.11.nupkg.sha512"
+    "/home/rangel/.nuget/packages/microsoft.net.illink.tasks/9.0.12/microsoft.net.illink.tasks.9.0.12.nupkg.sha512",
+    "/home/rangel/.nuget/packages/microsoft.net.sdk.webassembly.pack/9.0.12/microsoft.net.sdk.webassembly.pack.9.0.12.nupkg.sha512",
+    "/home/rangel/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/9.0.12/microsoft.netcore.app.runtime.mono.browser-wasm.9.0.12.nupkg.sha512"
   ],
   "logs": []
 }

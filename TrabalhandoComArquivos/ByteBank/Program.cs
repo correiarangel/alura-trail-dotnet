@@ -13,12 +13,18 @@ var arquivo = new Arquivo("dbByteBank.txt", path + "dbByteBank.txt", "Contas do 
 var _arquivo = new Arquivo("_dbByteBank.txt", path + "_dbByteBank.txt", "Contas do ByteBank");
 //arquivo.LerArquivoStreamReader();
 
-_arquivo.CriarArquivo();
+//_arquivo.CriarArquivo();
 
-arquivo.LerArquivoStreamReader();
+//arquivo.LerArquivoStreamReader();
+
+//_arquivo.BinaryForRead();
+
+//_arquivo.BinaryForWrite();
 
 
 
+
+_arquivo.ReadFile();
 
 Console.WriteLine("\nincia em segundos ........\n");
 
