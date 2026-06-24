@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MsWnu8jEPEs=",
+  "dgSpecHash": "h3x0OKHwgus=",
   "success": true,
   "projectFilePath": "/home/rangel/git-dev/alura-trail-dotnet/Preticando-Variaveis/jogoAcerteNumero/jogoAcerteNumero.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/rangel/.nuget/packages/microsoft.netcore.app.host.linux-x64/9.0.17/microsoft.netcore.app.host.linux-x64.9.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

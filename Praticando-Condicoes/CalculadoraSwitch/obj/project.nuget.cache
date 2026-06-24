@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "T6rZA88p60Q=",
+  "dgSpecHash": "ik8qRPOowMM=",
   "success": true,
   "projectFilePath": "/home/rangel/git-dev/alura-trail-dotnet/Praticando-Condicoes/CalculadoraSwitch/CalculadoraSwitch.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/rangel/.nuget/packages/microsoft.netcore.app.host.linux-x64/9.0.17/microsoft.netcore.app.host.linux-x64.9.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

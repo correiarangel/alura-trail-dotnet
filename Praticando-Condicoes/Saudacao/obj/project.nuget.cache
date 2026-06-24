@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "d0DnPfhE5bI=",
+  "dgSpecHash": "4qWIV1wCB70=",
   "success": true,
   "projectFilePath": "/home/rangel/git-dev/alura-trail-dotnet/Praticando-Condicoes/Saudacao/Saudacao.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/rangel/.nuget/packages/microsoft.netcore.app.host.linux-x64/9.0.17/microsoft.netcore.app.host.linux-x64.9.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
