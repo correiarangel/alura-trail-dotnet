@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1YSh0Bto8RU=",
+  "dgSpecHash": "NBXTXWv6eEg=",
   "success": true,
   "projectFilePath": "/home/rangel/git-dev/alura-trail-dotnet/Praticando-Condicoes/notaFinal/notaFinal.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/rangel/.nuget/packages/microsoft.netcore.app.host.linux-x64/9.0.17/microsoft.netcore.app.host.linux-x64.9.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gKiOn80RmHs=",
+  "dgSpecHash": "ccKM9vOWCwg=",
   "success": true,
   "projectFilePath": "/home/rangel/git-dev/alura-trail-dotnet/Encpsulameto/ReajusteSalarial/ReajusteSalarial.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/rangel/.nuget/packages/microsoft.netcore.app.host.linux-x64/9.0.17/microsoft.netcore.app.host.linux-x64.9.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

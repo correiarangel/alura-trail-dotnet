@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZrsKVQIvo28=",
+  "dgSpecHash": "21bNrXxw48I=",
   "success": true,
   "projectFilePath": "/home/rangel/git-dev/alura-trail-dotnet/Preticando-Variaveis/quantas-hora-tem-nos-minutos/quantas-hora-tem-nos-minutos.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/rangel/.nuget/packages/microsoft.netcore.app.host.linux-x64/9.0.17/microsoft.netcore.app.host.linux-x64.9.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

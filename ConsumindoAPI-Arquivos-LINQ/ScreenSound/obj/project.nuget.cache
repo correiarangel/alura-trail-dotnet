@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HR8Dh/r1WLg=",
+  "dgSpecHash": "jBVV16tn1Es=",
   "success": true,
   "projectFilePath": "/home/rangel/git-dev/alura-trail-dotnet/ConsumindoAPI-Arquivos-LINQ/ScreenSound/ScreenSound.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/rangel/.nuget/packages/microsoft.netcore.app.host.linux-x64/9.0.17/microsoft.netcore.app.host.linux-x64.9.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
