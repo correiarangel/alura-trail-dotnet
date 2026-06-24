@@ -1,7 +1,26 @@
 https://cursos.alura.com.br/user/marcosrangel
 
-
-
+Atualização em 24/06/2026
+- .NET 6: criando uma web API — Concluído — 24/06/2026
+- .NET 6: relacionando entidades — Em andamento — 0% — 24/06/2026
+- Redes e Protocolos: fundamentos da web — Concluído — 14/04/2026
+- C#: desenvolvimento e gerenciamento de bibliotecas — Concluído — 17/03/2026
+- C#: Manipulação de dados com coleções e LINQ — Concluído — 20/02/2026
+- C#: trabalhando com arquivos — Concluído — 04/02/2026
+- Git e GitHub: compartilhando e colaborando em projetos — Concluído — 21/01/2026
+- C#: consumindo API, gravando arquivos e utilizando o LINQ — Concluído — 17/01/2026
+- C#: dominando Orientação a Objetos — Concluído — 07/01/2026
+- C#: aplicando a Orientação a Objetos — Concluído — 28/12/2025
+- C#: criando sua primeira aplicação — Concluído — 04/12/2025
+- Praticando C#: orientação a objetos com polimorfismo — Concluído — 23/11/2025
+- Praticando C#: orientação a objetos com herança — Concluído — 12/11/2025
+- Praticando C#: orientação a objetos com encapsulamento — Concluído — 02/11/2025
+- Praticando C#: orientação a objetos com classes — Concluído — 13/10/2025
+- Praticando C#: coleções — Concluído — 21/09/2025
+- Praticando C#: Strings e Regex — Concluído — 10/09/2025
+- Praticando C#: laços de repetição — Concluído — 31/08/2025
+- Praticando C#: condicionais com if/else e switch/case — Concluído — 24/08/2025
+- Praticando C#: variáveis e tipos — Concluído — 17/08/2025
 
 Cursos concluídos
 A-Z
