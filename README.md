@@ -9,7 +9,7 @@ Este repositório documenta minha jornada de aprendizado em **C#** e **.NET**, r
 ## 🎯 Carreira: Desenvolvimento Back-End .NET
 
 **Status:** 🟢 Nível 1 concluído — Nível 2 em progresso
-**Progresso:** 16 cursos concluídos (Nível 1 completo)
+**Progresso:** 21 cursos concluídos e 1 em andamento
 **Carga horária total:** 49h (Nível 1) + em andamento
 **Escola:** Programação – Alura
 
@@ -23,28 +23,35 @@ Desenvolver habilidades completas em desenvolvimento back-end .NET, do pensament
 
 ### 🧩 Nível 1 - Pensamento Computacional e primeiros passos no C#
 
-| Curso                                                     | Status        | Data       |
-| --------------------------------------------------------- | ------------- | ---------- |
-| Carreira .NET: Boas-vindas e primeiros passos            | ✅ Concluído | -         |
-| Pensamento computacional: fundamentos da computação e lógica de programação | ✅ Concluído | -         |
-| C#: criando sua primeira aplicação                       | ✅ Concluído | -         |
-| Praticando C#: variáveis e tipos                        | ✅ Concluído | 17/08/2025 |
-| Praticando C#: condicionais com if/else e switch/case    | ✅ Concluído | 24/08/2025 |
-| Praticando C#: laços de repetição                       | ✅ Concluído | 31/08/2025 |
+| Curso | Status | Data |
+| --- | --- | --- |
+| Carreira .NET: Boas-vindas e primeiros passos | ✅ Concluído | - |
+| Pensamento computacional: fundamentos da computação e lógica de programação | ✅ Concluído | - |
+| C#: criando sua primeira aplicação | ✅ Concluído | 04/12/2025 |
+| Praticando C#: variáveis e tipos | ✅ Concluído | 17/08/2025 |
+| Praticando C#: condicionais com if/else e switch/case | ✅ Concluído | 24/08/2025 |
+| Praticando C#: laços de repetição | ✅ Concluído | 31/08/2025 |
 
 ### 🧠 Nível 1 - Orientação a objetos, dados e web
 
-| Curso                                                        | Status        | Data       |
-| ------------------------------------------------------------ | ------------- | ---------- |
-| C#: aplicando a Orientação a Objetos                        | ✅ Concluído | -         |
-| Praticando C#: orientação a objetos com classes            | ✅ Concluído | 13/10/2025 |
-| C#: dominando Orientação a Objetos                          | ✅ Concluído | -         |
-| Praticando C#: orientação a objetos com herança            | ✅ Concluído | 12/11/2025 |
-| Praticando C#: orientação a objetos com encapsulamento     | ✅ Concluído | 02/11/2025 |
-| Praticando C#: orientação a objetos com polimorfismo       | ✅ Concluído | 23/11/2025 |
-| C#: consumindo API, gravando arquivos e utilizando o LINQ  | ✅ Concluído | -         |
-| Praticando C#: coleções                                    | ✅ Concluído | 21/09/2025 |
-| Praticando C#: Strings e Regex                              | ✅ Concluído | 10/09/2025 |
+| Curso | Status | Data |
+| --- | --- | --- |
+| C#: aplicando a Orientação a Objetos | ✅ Concluído | 28/12/2025 |
+| Praticando C#: orientação a objetos com classes | ✅ Concluído | 13/10/2025 |
+| C#: dominando Orientação a Objetos | ✅ Concluído | 07/01/2026 |
+| Praticando C#: orientação a objetos com herança | ✅ Concluído | 12/11/2025 |
+| Praticando C#: orientação a objetos com encapsulamento | ✅ Concluído | 02/11/2025 |
+| Praticando C#: orientação a objetos com polimorfismo | ✅ Concluído | 23/11/2025 |
+| C#: consumindo API, gravando arquivos e utilizando o LINQ | ✅ Concluído | 17/01/2026 |
+| Git e GitHub: compartilhando e colaborando em projetos | ✅ Concluído | 21/01/2026 |
+| C#: trabalhando com arquivos | ✅ Concluído | 04/02/2026 |
+| C#: Manipulação de dados com coleções e LINQ | ✅ Concluído | 20/02/2026 |
+| C#: desenvolvimento e gerenciamento de bibliotecas | ✅ Concluído | 17/03/2026 |
+| Redes e Protocolos: fundamentos da web | ✅ Concluído | 14/04/2026 |
+| .NET 6: criando uma web API | ✅ Concluído | 24/06/2026 |
+| .NET 6: relacionando entidades | 🔄 Em andamento | 24/06/2026 |
+| Praticando C#: coleções | ✅ Concluído | 21/09/2025 |
+| Praticando C#: Strings e Regex | ✅ Concluído | 10/09/2025 |
 
 **Checkpoint do Nível 1:** ✅ Concluído
 
