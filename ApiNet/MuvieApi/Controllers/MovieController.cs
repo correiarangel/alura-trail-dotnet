@@ -39,8 +39,21 @@ public class MovieController(MovieContext context, IMapper mapper) : ControllerB
     }
 
     [HttpGet]
-    public async Task<IEnumerable<ReadMovieDto>> GetMovies([FromQuery] int skip = 0, [FromQuery] int take = 50)
+    public async Task<IEnumerable<ReadMovieDto>> GetMovies(
+        [FromQuery] int skip = 0, 
+        [FromQuery] int take = 50,
+        [FromQuery] string? nameCinema = null)
     {
+        if(!string.IsNullOrEmpty(nameCinema))
+        {
+            return _mapper.Map<List<ReadMovieDto>>(await _context.Movies
+                .Where(movie => movie.Sections.Any(section => section.Cinema.Name == nameCinema))
+                .OrderBy(movie => movie.Id)
+                .Skip(skip)
+                .Take(take)
+                .ToListAsync());
+        }
+        
         return _mapper.Map<List<ReadMovieDto>>(await _context.Movies
         .OrderBy(movie => movie.Id)
         .Skip(skip)

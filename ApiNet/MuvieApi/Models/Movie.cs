@@ -23,4 +23,6 @@ public class Movie
     [Required]
     [Range(20, 600, ErrorMessage = "Duration Range 20..40 min")]
     public int Duration { get; set; }
+
+    public virtual ICollection<Section> Sections { get; set; }
 }

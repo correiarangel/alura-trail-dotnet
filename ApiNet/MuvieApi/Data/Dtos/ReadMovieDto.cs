@@ -8,4 +8,5 @@ public class ReadMovieDto
     public string? Director { get; set; }
     public int Duration { get; set; }
     public DateTime CreatedAt { get; set; } = DateTime.Now;
+    public ICollection<ReadSectionDto> Sections { get; set; }
 }

@@ -20,10 +20,10 @@ Web API desenvolvida durante o curso **".NET: Criando uma Web API"** da [Alura](
 
 ## 🛠️ Stack e Tecnologias
 
-| Tecnologia                                                                               | Versão |
-| ---------------------------------------------------------------------------------------- | ------- |
+| Tecnologia                                                                                 | Versão |
+| ------------------------------------------------------------------------------------------ | ------- |
 | [.NET](https://dotnet.microsoft.com/)                                                       | 10.0    |
-| ASP.NET Core Web API                                                                     | 10.0    |
+| ASP.NET Core Web API                                                                       | 10.0    |
 | [Microsoft.AspNetCore.OpenApi](https://www.nuget.org/packages/Microsoft.AspNetCore.OpenApi) | 10.0.8  |
 | [Scalar.AspNetCore](https://scalar.com/)                                                    | 2.16.3  |
 
@@ -112,7 +112,6 @@ dotnet ef database update --project MuvieApi.csproj
 **Remova uma Migrations com:**
 
 `dotnet ef migrations remove --project MuvieApi.csproj dotnet ef migrations add CreatTableMovie --project MuvieApi.csproj`
-
 
 ---
 
