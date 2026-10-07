@@ -58,6 +58,10 @@ docs/
 # Lock/generated files
 *.g.dart
 
+# Projetos independentes com repositório próprio (não rastreados pelo repo pai)
+ApiNet/ScreenSound-Curso4/
+ApiNet/ScreenSound-Curso4.worktrees/
+
 # -------------------------------------------------------
 # SEGURANÇA — arquivos que NUNCA devem ir para o repositório
 # -------------------------------------------------------
