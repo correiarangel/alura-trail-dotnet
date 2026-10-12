@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
@@ -18,7 +19,8 @@ if (string.IsNullOrWhiteSpace(connectionString))
         "Connection string 'DefaultConnection' ausente. Configure-a em User Secrets ou na variável de ambiente ConnectionStrings__DefaultConnection.");
 }
 
-builder.Services.AddDbContext<ScreenSoundContext>((options) => {
+builder.Services.AddDbContext<ScreenSoundContext>((options) =>
+{
     options
             .UseNpgsql(connectionString, npgsql => npgsql.MigrationsAssembly("ScreenSound.API"))
             // .UseSqlServer(builder.Configuration.GetConnectionString("ScreenSoundDB")) // SQL Server legado.
@@ -29,9 +31,17 @@ builder.Services
     .AddIdentityApiEndpoints<PerssonWithPermission>()
     .AddEntityFrameworkStores<ScreenSoundContext>();
 
-    builder.Services.AddAuthentication();
-    builder.Services.AddAuthorization();
+builder.Services.AddAuthentication();
+builder.Services.AddAuthorization();
 
+// Permite que o cookie do Identity seja trafegado entre o Blazor WebAssembly e a API (Cross-Origin em portas locais distintas: 7015 e 7089)
+builder.Services.ConfigureApplicationCookie(options =>
+{
+    options.Cookie.SameSite = SameSiteMode.None;
+    options.Cookie.SecurePolicy = CookieSecurePolicy.Always;
+});
+
+builder.Services.AddTransient<DAL<PerssonWithPermission>>();
 builder.Services.AddTransient<DAL<Artista>>();
 builder.Services.AddTransient<DAL<Musica>>();
 builder.Services.AddTransient<DAL<Genero>>();
@@ -57,13 +67,20 @@ var app = builder.Build();
 app.UseCors("wasm");
 
 app.UseStaticFiles();
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.AddEndPointsArtistas();
 app.AddEndPointsMusicas();
 app.AddEndPointGeneros();
-                                                             //Rotulo de autorização do enpoit      
+//Rotulo de autorização do enpoit      
 app.MapGroup("auth").MapIdentityApi<PerssonWithPermission>().WithTags("Autenticação");
+
+app.MapPost("auth/logout", async ([FromServices] SignInManager<PerssonWithPermission> signInManager) =>
+{
+    await signInManager.SignOutAsync();
+    return Results.Ok();
+}).WithTags("Autenticação");
 
 app.UseSwagger();
 app.UseSwaggerUI();

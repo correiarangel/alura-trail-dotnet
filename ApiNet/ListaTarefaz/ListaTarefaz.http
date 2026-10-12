@@ -1,0 +1,43 @@
+@ListaTarefaz_HostAddress = http://localhost:5093
+
+### Listar todas as tarefas
+GET {{ListaTarefaz_HostAddress}}/tarefaz
+Accept: application/json
+
+###
+
+### Buscar tarefa por ID
+GET {{ListaTarefaz_HostAddress}}/tarefaz/1
+Accept: application/json
+
+###
+
+### Criar uma nova tarefa (não precisa de ID, concluida inicia false, dataCriacao é automática)
+POST {{ListaTarefaz_HostAddress}}/tarefaz
+Content-Type: application/json
+
+{
+  "titulo": "Estudar .NET 10",
+  "descricao": "Praticar Minimal APIs e Entity Framework Core"
+}
+
+###
+
+### Atualizar tarefa por ID
+PUT {{ListaTarefaz_HostAddress}}/tarefaz/1
+Content-Type: application/json
+
+{
+  "titulo": "Estudar .NET 10 e PostgreSQL",
+  "descricao": "Finalizado estudo prático de Minimal APIs",
+  "concluida": true,
+  "dataConclusao": "2026-10-12"
+}
+
+###
+
+### Deletar tarefa por ID
+DELETE {{ListaTarefaz_HostAddress}}/tarefaz/1
+Accept: application/json
+
+###

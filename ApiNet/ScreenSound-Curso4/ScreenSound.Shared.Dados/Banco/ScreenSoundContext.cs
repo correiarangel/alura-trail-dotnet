@@ -11,18 +11,20 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ScreenSound.Banco;
-public class ScreenSoundContext: IdentityDbContext<PerssonWithPermission, PermittedProfile,int>
+
+public class ScreenSoundContext : IdentityDbContext<PerssonWithPermission, PermittedProfile, int>
 {
     public DbSet<Artista> Artistas { get; set; }
     public DbSet<Musica> Musicas { get; set; }
     public DbSet<Genero> Generos { get; set; }
+    public DbSet<AvaliacaoArtista> AvaliacoesArtistas { get; set; }
 
     // SQL Server legado para estudo:
     // private string connectionStringSqlServer = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ScreenSoundV0;Integrated Security=True;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False";
 
     public ScreenSoundContext()
     {
-        
+
     }
     public ScreenSoundContext(DbContextOptions options) : base(options)
     {
@@ -54,6 +56,8 @@ public class ScreenSoundContext: IdentityDbContext<PerssonWithPermission, Permit
         modelBuilder.Entity<Musica>()
             .HasMany(c => c.Generos)
             .WithMany(c => c.Musicas);
+        modelBuilder.Entity<AvaliacaoArtista>()
+            .HasKey(a => new { a.ArtistaId, a.PessoaId });
     }
 
 }

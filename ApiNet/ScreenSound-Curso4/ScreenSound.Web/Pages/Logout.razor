@@ -1,0 +1,16 @@
+@page "/logout"
+@attribute [AllowAnonymous]
+@inject AuthAPI AuthAPI
+@inject NavigationManager NavigationManager
+
+@code {
+    protected override async Task OnInitializedAsync()
+    {
+        if (await AuthAPI.IsLoged())
+            await AuthAPI.LogoutAsync();
+
+        NavigationManager.NavigateTo("/", forceLoad: false);
+        await base.OnInitializedAsync();
+    }
+
+}

@@ -1,49 +1,55 @@
 @page "/"
-
+@using Microsoft.AspNetCore.Components.Authorization
+@attribute [AllowAnonymous]
 @inject AuthAPI AuthAPI
-@inject NavigationManager NavigationManager
+@inject NavigationManager Navigation
+@inject ISnackbar Snackbar
 
 <MudPaper Class="px-8 pt-2 pb-4 mx-16 my-8" Justify="Justify.Center">
-    <MudForm>
+    <AuthorizeView>
+        <Authorized>
+            <p>Usuario Logado: @context.User.Identity.Name</p>
+        </Authorized>
+        <NotAuthorized>
+            <MudForm>
 
-        <MudTextField T="string" Label="Email" @bind-Value="email"
-                      Variant="Variant.Outlined" Class="my-4"
-                      Required="true" RequiredError="Email obrigatório!"
-                      OnlyValidateIfDirty="true" />
+                <MudTextField T="string" Label="Email" @bind-Value="email" Variant="Variant.Outlined" Class="my-4"
+                              Required="true" RequiredError="Email obrigatório!" OnlyValidateIfDirty="true" />
 
-        <MudTextField T="string" Label="Senha" @bind-Value="senha"
-                      InputType="InputType.Password"
-                      Variant="Variant.Outlined" Class="my-4"
-                      Required="true" RequiredError="Senha obrigatória!"
-                      OnlyValidateIfDirty="true" />
+                <MudTextField T="string" Label="Senha" @bind-Value="senha" InputType="InputType.Password"
+                              Variant="Variant.Outlined" Class="my-4" Required="true" RequiredError="Senha obrigatória!"
+                              OnlyValidateIfDirty="true" />
 
-        <MudButton Variant="Variant.Filled" Color="Color.Primary"
-                   Class="my-6" @onclick="FazerLogin">
-            Login
-        </MudButton>
+                <MudButton Variant="Variant.Filled" Color="Color.Primary" Class="my-6" @onclick="LogIn">
+                    Login
+                </MudButton>
 
-    </MudForm>
+            </MudForm>
+        </NotAuthorized>
+    </AuthorizeView>
+
+    
 </MudPaper>
 
-@code{
+@code {
 
     private string? email;
     private string? senha;
 
-    private async Task FazerLogin()
+    [SupplyParameterFromQuery]
+    public string? ReturnUrl { get; set; }
+    
+    private async Task LogIn()
     {
-       var response = await AuthAPI.LoginAsync(email, senha);
-
-         if (response.Sucesso)
-          {
-                // Redirecionar para a página inicial ou outra página protegida
-                NavigationManager.NavigateTo("/home");
-          }
-          else
-          {
-                // Exibir mensagem de erro
-                var erros = string.Join(", ", response.Errorrs);
-                Console.WriteLine($"Falha no login: {erros}", Severity.Error);
-          }
+        var resposta = await AuthAPI.LoginAsync(email, senha);
+        if (resposta.Sucesso)
+        {
+            Navigation.NavigateTo(ReturnUrl ?? "/Artistas");
+        }
+        else
+        {
+            Snackbar.Add($"Falha no login: {string.Join(", ", resposta.Erros)}", Severity.Error);
+        }
     }
+
 }

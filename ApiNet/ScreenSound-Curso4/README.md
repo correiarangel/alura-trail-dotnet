@@ -226,3 +226,40 @@ cd ScreenSound.Web && dotnet run
 [learn.microsoft.com/pt-br/azure/active-directory/fundamentals/introduction-identity-access-management](https://learn.microsoft.com/pt-br/azure/active-directory/fundamentals/introduction-identity-access-management)
 
 [learn.microsoft.com/pt-br/aspnet/core/security/authentication/identity?view=aspnetcore-10.0&amp;tabs=visual-studio](https://learn.microsoft.com/pt-br/aspnet/core/security/authentication/identity?view=aspnetcore-10.0&tabs=visual-studio)
+
+**Clains:**
+
+[learn.microsoft.com/en-us/dotnet/api/system.security.claims.claimtypes](https://learn.microsoft.com/en-us/dotnet/api/system.security.claims.claimtypes)
+
+###### ClaimsPrincipal: pessoa usuária com sua identificação
+
+Para concluir o modelo, temos o tipo `ClaimsPrincipal`, que representa o “contexto de segurança da pessoa usuária em cujo nome o código está em execução, incluindo sua identidade […]” (tradução obtida na [documentação oficial](https://learn.microsoft.com/pt-br/dotnet/api/system.security.principal.iprincipal) da interface `IPrincipal`, implementada por `ClaimsPrincipal`).
+
+### Aprofunde o tema!
+
+Abaixo, seguem algumas referências para você aprofundar o assunto, com explicações e até mesmo ilustrações do modelo:
+
+* Artigo [Autenticação e autorização em aplicações Blazor](https://learn.microsoft.com/pt-br/aspnet/core/blazor/security/). Enquanto estava preparando esta aula, voltei repetidas vezes a essa referência para organizar o conhecimento e estruturar melhor o conteúdo.
+* Artigo [Sharepoint - Definições de termos de identidade baseadas em declarações](https://learn.microsoft.com/pt-br/sharepoint/dev/general-development/claims-based-identity-term-definitions). O mais importante para nosso estudo é a tabela inicial com as definições. Resolvi trazer essa referência para mostrar que o modelo é usado de forma abrangente em outros produtos e situações.
+* Artigo [Introduction to Authentication with ASP.NET Core](https://andrewlock.net/introduction-to-authentication-with-asp-net-core/) (em inglês), de Andrew Lock, com introdução sobre o tema usando o ASP.NET Core.
+
+## Para saber mais: AddScoped, AddTransient e AddSingleton
+
+[learn.microsoft.com/pt-br/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-9.0](https://learn.microsoft.com/pt-br/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-9.0)
+
+[learn.microsoft.com/pt-br/dotnet/core/extensions/dependency-injection](https://learn.microsoft.com/pt-br/dotnet/core/extensions/dependency-injection)
+
+* [Classe Math](https://learn.microsoft.com/en-us/dotnet/api/system.math) e seus métodos, incluindo `Min()`, `Max()` e `Clamp()`;
+* [Operadores condicionais ternários](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/conditional-operator).
+
+
+A tabela abaixo, extraída do artigo da Microsoft sobre os estilos [Functional programming vs. imperative programming (LINQ to XML)](https://learn.microsoft.com/en-us/dotnet/standard/linq/functional-vs-imperative-programming), sintetiza a diferença entre os dois estilos.
+
+| Característica                    | Estilo imperativo                                                                      | Estilo declarativo                                                      |
+| ---------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Foco da programação              | Como executar tarefas (algoritmos) e como monitorar as mudanças no estado do programa | Que informação é desejável e quais as transformações necessárias |
+| Ordem de execução                | Relevante                                                                              | Não interessa                                                          |
+| Fluxo de controle                  | Loops, condicionais e chamadas de métodos                                             | Chamadas de funções e recursão                                       |
+| Unidade principal de manipulação | Objetos e classes                                                                      | Funções (no C# usamos métodos de extensão) e coleções de dados    |
+
+No blog da Alura temos também o artigo [Programação funcional: O que é?](https://www.alura.com.br/artigos/programacao-funcional-o-que-e) com uma explicação sobre a programação funcional, que é um estilo influenciado pela programação declarativa.
